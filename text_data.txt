@@ -1,240 +1,1260 @@
-I want to model the number of pregnancies	the number of pregnancies	!
-I want to model the number of car crashes	the number of car crashes	!
-I want to model the number of criminal incidents	the number of criminal incidents	!
-I want to model the number of trees	the number of trees	!
-I want to model the average number of pregnancies	the average number of pregnancies	!
-I want to model the average number of car crashes	the average number of car crashes	!
-I want to model the average number of criminal incidents	the average number of criminal incidents	!
-I want to model the average number of trees	the average number of trees	!
-I want to model the median number of pregnancies	the median number of pregnancies	!
-I want to model the median number of car crashes	the median number of car crashes	!
-I want to model the median number of criminal incidents	the median number of criminal incidents	!
-I want to model the median number of trees	the median number of trees	!
-I want to model  pregnancies	 pregnancies	!
-I want to model  car crashes	 car crashes	!
-I want to model  criminal incidents	 criminal incidents	!
-I want to model  trees	 trees	!
-I want to estimate the number of pregnancies	the number of pregnancies	!
-I want to estimate the number of car crashes	the number of car crashes	!
-I want to estimate the number of criminal incidents	the number of criminal incidents	!
-I want to estimate the number of trees	the number of trees	!
-I want to estimate the average number of pregnancies	the average number of pregnancies	!
-I want to estimate the average number of car crashes	the average number of car crashes	!
-I want to estimate the average number of criminal incidents	the average number of criminal incidents	!
-I want to estimate the average number of trees	the average number of trees	!
-I want to estimate the median number of pregnancies	the median number of pregnancies	!
-I want to estimate the median number of car crashes	the median number of car crashes	!
-I want to estimate the median number of criminal incidents	the median number of criminal incidents	!
-I want to estimate the median number of trees	the median number of trees	!
-I want to estimate  pregnancies	 pregnancies	!
-I want to estimate  car crashes	 car crashes	!
-I want to estimate  criminal incidents	 criminal incidents	!
-I want to estimate  trees	 trees	!
-I want to predict the number of pregnancies	the number of pregnancies	!
-I want to predict the number of car crashes	the number of car crashes	!
-I want to predict the number of criminal incidents	the number of criminal incidents	!
-I want to predict the number of trees	the number of trees	!
-I want to predict the average number of pregnancies	the average number of pregnancies	!
-I want to predict the average number of car crashes	the average number of car crashes	!
-I want to predict the average number of criminal incidents	the average number of criminal incidents	!
-I want to predict the average number of trees	the average number of trees	!
-I want to predict the median number of pregnancies	the median number of pregnancies	!
-I want to predict the median number of car crashes	the median number of car crashes	!
-I want to predict the median number of criminal incidents	the median number of criminal incidents	!
-I want to predict the median number of trees	the median number of trees	!
-I want to predict  pregnancies	 pregnancies	!
-I want to predict  car crashes	 car crashes	!
-I want to predict  criminal incidents	 criminal incidents	!
-I want to predict  trees	 trees	!
-I need to model the number of pregnancies	the number of pregnancies	!
-I need to model the number of car crashes	the number of car crashes	!
-I need to model the number of criminal incidents	the number of criminal incidents	!
-I need to model the number of trees	the number of trees	!
-I need to model the average number of pregnancies	the average number of pregnancies	!
-I need to model the average number of car crashes	the average number of car crashes	!
-I need to model the average number of criminal incidents	the average number of criminal incidents	!
-I need to model the average number of trees	the average number of trees	!
-I need to model the median number of pregnancies	the median number of pregnancies	!
-I need to model the median number of car crashes	the median number of car crashes	!
-I need to model the median number of criminal incidents	the median number of criminal incidents	!
-I need to model the median number of trees	the median number of trees	!
-I need to model  pregnancies	 pregnancies	!
-I need to model  car crashes	 car crashes	!
-I need to model  criminal incidents	 criminal incidents	!
-I need to model  trees	 trees	!
-I need to estimate the number of pregnancies	the number of pregnancies	!
-I need to estimate the number of car crashes	the number of car crashes	!
-I need to estimate the number of criminal incidents	the number of criminal incidents	!
-I need to estimate the number of trees	the number of trees	!
-I need to estimate the average number of pregnancies	the average number of pregnancies	!
-I need to estimate the average number of car crashes	the average number of car crashes	!
-I need to estimate the average number of criminal incidents	the average number of criminal incidents	!
-I need to estimate the average number of trees	the average number of trees	!
-I need to estimate the median number of pregnancies	the median number of pregnancies	!
-I need to estimate the median number of car crashes	the median number of car crashes	!
-I need to estimate the median number of criminal incidents	the median number of criminal incidents	!
-I need to estimate the median number of trees	the median number of trees	!
-I need to estimate  pregnancies	 pregnancies	!
-I need to estimate  car crashes	 car crashes	!
-I need to estimate  criminal incidents	 criminal incidents	!
-I need to estimate  trees	 trees	!
-I need to predict the number of pregnancies	the number of pregnancies	!
-I need to predict the number of car crashes	the number of car crashes	!
-I need to predict the number of criminal incidents	the number of criminal incidents	!
-I need to predict the number of trees	the number of trees	!
-I need to predict the average number of pregnancies	the average number of pregnancies	!
-I need to predict the average number of car crashes	the average number of car crashes	!
-I need to predict the average number of criminal incidents	the average number of criminal incidents	!
-I need to predict the average number of trees	the average number of trees	!
-I need to predict the median number of pregnancies	the median number of pregnancies	!
-I need to predict the median number of car crashes	the median number of car crashes	!
-I need to predict the median number of criminal incidents	the median number of criminal incidents	!
-I need to predict the median number of trees	the median number of trees	!
-I need to predict  pregnancies	 pregnancies	!
-I need to predict  car crashes	 car crashes	!
-I need to predict  criminal incidents	 criminal incidents	!
-I need to predict  trees	 trees	!
-Need to model the number of pregnancies	the number of pregnancies	!
-Need to model the number of car crashes	the number of car crashes	!
-Need to model the number of criminal incidents	the number of criminal incidents	!
-Need to model the number of trees	the number of trees	!
-Need to model the average number of pregnancies	the average number of pregnancies	!
-Need to model the average number of car crashes	the average number of car crashes	!
-Need to model the average number of criminal incidents	the average number of criminal incidents	!
-Need to model the average number of trees	the average number of trees	!
-Need to model the median number of pregnancies	the median number of pregnancies	!
-Need to model the median number of car crashes	the median number of car crashes	!
-Need to model the median number of criminal incidents	the median number of criminal incidents	!
-Need to model the median number of trees	the median number of trees	!
-Need to model  pregnancies	 pregnancies	!
-Need to model  car crashes	 car crashes	!
-Need to model  criminal incidents	 criminal incidents	!
-Need to model  trees	 trees	!
-Need to estimate the number of pregnancies	the number of pregnancies	!
-Need to estimate the number of car crashes	the number of car crashes	!
-Need to estimate the number of criminal incidents	the number of criminal incidents	!
-Need to estimate the number of trees	the number of trees	!
-Need to estimate the average number of pregnancies	the average number of pregnancies	!
-Need to estimate the average number of car crashes	the average number of car crashes	!
-Need to estimate the average number of criminal incidents	the average number of criminal incidents	!
-Need to estimate the average number of trees	the average number of trees	!
-Need to estimate the median number of pregnancies	the median number of pregnancies	!
-Need to estimate the median number of car crashes	the median number of car crashes	!
-Need to estimate the median number of criminal incidents	the median number of criminal incidents	!
-Need to estimate the median number of trees	the median number of trees	!
-Need to estimate  pregnancies	 pregnancies	!
-Need to estimate  car crashes	 car crashes	!
-Need to estimate  criminal incidents	 criminal incidents	!
-Need to estimate  trees	 trees	!
-Need to predict the number of pregnancies	the number of pregnancies	!
-Need to predict the number of car crashes	the number of car crashes	!
-Need to predict the number of criminal incidents	the number of criminal incidents	!
-Need to predict the number of trees	the number of trees	!
-Need to predict the average number of pregnancies	the average number of pregnancies	!
-Need to predict the average number of car crashes	the average number of car crashes	!
-Need to predict the average number of criminal incidents	the average number of criminal incidents	!
-Need to predict the average number of trees	the average number of trees	!
-Need to predict the median number of pregnancies	the median number of pregnancies	!
-Need to predict the median number of car crashes	the median number of car crashes	!
-Need to predict the median number of criminal incidents	the median number of criminal incidents	!
-Need to predict the median number of trees	the median number of trees	!
-Need to predict  pregnancies	 pregnancies	!
-Need to predict  car crashes	 car crashes	!
-Need to predict  criminal incidents	 criminal incidents	!
-Need to predict  trees	 trees	!
-I'd like to model the number of pregnancies	the number of pregnancies	!
-I'd like to model the number of car crashes	the number of car crashes	!
-I'd like to model the number of criminal incidents	the number of criminal incidents	!
-I'd like to model the number of trees	the number of trees	!
-I'd like to model the average number of pregnancies	the average number of pregnancies	!
-I'd like to model the average number of car crashes	the average number of car crashes	!
-I'd like to model the average number of criminal incidents	the average number of criminal incidents	!
-I'd like to model the average number of trees	the average number of trees	!
-I'd like to model the median number of pregnancies	the median number of pregnancies	!
-I'd like to model the median number of car crashes	the median number of car crashes	!
-I'd like to model the median number of criminal incidents	the median number of criminal incidents	!
-I'd like to model the median number of trees	the median number of trees	!
-I'd like to model  pregnancies	 pregnancies	!
-I'd like to model  car crashes	 car crashes	!
-I'd like to model  criminal incidents	 criminal incidents	!
-I'd like to model  trees	 trees	!
-I'd like to estimate the number of pregnancies	the number of pregnancies	!
-I'd like to estimate the number of car crashes	the number of car crashes	!
-I'd like to estimate the number of criminal incidents	the number of criminal incidents	!
-I'd like to estimate the number of trees	the number of trees	!
-I'd like to estimate the average number of pregnancies	the average number of pregnancies	!
-I'd like to estimate the average number of car crashes	the average number of car crashes	!
-I'd like to estimate the average number of criminal incidents	the average number of criminal incidents	!
-I'd like to estimate the average number of trees	the average number of trees	!
-I'd like to estimate the median number of pregnancies	the median number of pregnancies	!
-I'd like to estimate the median number of car crashes	the median number of car crashes	!
-I'd like to estimate the median number of criminal incidents	the median number of criminal incidents	!
-I'd like to estimate the median number of trees	the median number of trees	!
-I'd like to estimate  pregnancies	 pregnancies	!
-I'd like to estimate  car crashes	 car crashes	!
-I'd like to estimate  criminal incidents	 criminal incidents	!
-I'd like to estimate  trees	 trees	!
-I'd like to predict the number of pregnancies	the number of pregnancies	!
-I'd like to predict the number of car crashes	the number of car crashes	!
-I'd like to predict the number of criminal incidents	the number of criminal incidents	!
-I'd like to predict the number of trees	the number of trees	!
-I'd like to predict the average number of pregnancies	the average number of pregnancies	!
-I'd like to predict the average number of car crashes	the average number of car crashes	!
-I'd like to predict the average number of criminal incidents	the average number of criminal incidents	!
-I'd like to predict the average number of trees	the average number of trees	!
-I'd like to predict the median number of pregnancies	the median number of pregnancies	!
-I'd like to predict the median number of car crashes	the median number of car crashes	!
-I'd like to predict the median number of criminal incidents	the median number of criminal incidents	!
-I'd like to predict the median number of trees	the median number of trees	!
-I'd like to predict  pregnancies	 pregnancies	!
-I'd like to predict  car crashes	 car crashes	!
-I'd like to predict  criminal incidents	 criminal incidents	!
-I'd like to predict  trees	 trees	!
-Want to model the number of pregnancies	the number of pregnancies	!
-Want to model the number of car crashes	the number of car crashes	!
-Want to model the number of criminal incidents	the number of criminal incidents	!
-Want to model the number of trees	the number of trees	!
-Want to model the average number of pregnancies	the average number of pregnancies	!
-Want to model the average number of car crashes	the average number of car crashes	!
-Want to model the average number of criminal incidents	the average number of criminal incidents	!
-Want to model the average number of trees	the average number of trees	!
-Want to model the median number of pregnancies	the median number of pregnancies	!
-Want to model the median number of car crashes	the median number of car crashes	!
-Want to model the median number of criminal incidents	the median number of criminal incidents	!
-Want to model the median number of trees	the median number of trees	!
-Want to model  pregnancies	 pregnancies	!
-Want to model  car crashes	 car crashes	!
-Want to model  criminal incidents	 criminal incidents	!
-Want to model  trees	 trees	!
-Want to estimate the number of pregnancies	the number of pregnancies	!
-Want to estimate the number of car crashes	the number of car crashes	!
-Want to estimate the number of criminal incidents	the number of criminal incidents	!
-Want to estimate the number of trees	the number of trees	!
-Want to estimate the average number of pregnancies	the average number of pregnancies	!
-Want to estimate the average number of car crashes	the average number of car crashes	!
-Want to estimate the average number of criminal incidents	the average number of criminal incidents	!
-Want to estimate the average number of trees	the average number of trees	!
-Want to estimate the median number of pregnancies	the median number of pregnancies	!
-Want to estimate the median number of car crashes	the median number of car crashes	!
-Want to estimate the median number of criminal incidents	the median number of criminal incidents	!
-Want to estimate the median number of trees	the median number of trees	!
-Want to estimate  pregnancies	 pregnancies	!
-Want to estimate  car crashes	 car crashes	!
-Want to estimate  criminal incidents	 criminal incidents	!
-Want to estimate  trees	 trees	!
-Want to predict the number of pregnancies	the number of pregnancies	!
-Want to predict the number of car crashes	the number of car crashes	!
-Want to predict the number of criminal incidents	the number of criminal incidents	!
-Want to predict the number of trees	the number of trees	!
-Want to predict the average number of pregnancies	the average number of pregnancies	!
-Want to predict the average number of car crashes	the average number of car crashes	!
-Want to predict the average number of criminal incidents	the average number of criminal incidents	!
-Want to predict the average number of trees	the average number of trees	!
-Want to predict the median number of pregnancies	the median number of pregnancies	!
-Want to predict the median number of car crashes	the median number of car crashes	!
-Want to predict the median number of criminal incidents	the median number of criminal incidents	!
-Want to predict the median number of trees	the median number of trees	!
-Want to predict  pregnancies	 pregnancies	!
-Want to predict  car crashes	 car crashes	!
-Want to predict  criminal incidents	 criminal incidents	!
-Want to predict  trees	 trees	!
+I want to model pregnancies	~ pregnancies	~ !
+I want to model car crashes	~ car crashes	~ !
+I want to model criminal incidents	~ criminal incidents	~ !
+I want to model trees	~ trees	~ !
+I want to model power failures	~ power failures	~ !
+I want to model the number of pregnancies	~ the number of pregnancies	~ !
+I want to model the number of car crashes	~ the number of car crashes	~ !
+I want to model the number of criminal incidents	~ the number of criminal incidents	~ !
+I want to model the number of trees	~ the number of trees	~ !
+I want to model the number of power failures	~ the number of power failures	~ !
+I want to model the average number of pregnancies	~ the average number of pregnancies	~ !
+I want to model the average number of car crashes	~ the average number of car crashes	~ !
+I want to model the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I want to model the average number of trees	~ the average number of trees	~ !
+I want to model the average number of power failures	~ the average number of power failures	~ !
+I want to model the median number of pregnancies	~ the median number of pregnancies	~ !
+I want to model the median number of car crashes	~ the median number of car crashes	~ !
+I want to model the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I want to model the median number of trees	~ the median number of trees	~ !
+I want to model the median number of power failures	~ the median number of power failures	~ !
+I want to model the price of cars	~ the price of cars	~ !
+I want to model the price of cats	~ the price of cats	~ !
+I want to model the price of dogs	~ the price of dogs	~ !
+I want to model the price of candy	~ the price of candy	~ !
+I want to model the price of steak	~ the price of steak	~ !
+I want to model the price of beef	~ the price of beef	~ !
+I want to model the price of pancakes	~ the price of pancakes	~ !
+I want to model the price of sugar	~ the price of sugar	~ !
+I want to model the price of bread	~ the price of bread	~ !
+I want to model the price of water	~ the price of water	~ !
+I want to estimate pregnancies	~ pregnancies	~ !
+I want to estimate car crashes	~ car crashes	~ !
+I want to estimate criminal incidents	~ criminal incidents	~ !
+I want to estimate trees	~ trees	~ !
+I want to estimate power failures	~ power failures	~ !
+I want to estimate the number of pregnancies	~ the number of pregnancies	~ !
+I want to estimate the number of car crashes	~ the number of car crashes	~ !
+I want to estimate the number of criminal incidents	~ the number of criminal incidents	~ !
+I want to estimate the number of trees	~ the number of trees	~ !
+I want to estimate the number of power failures	~ the number of power failures	~ !
+I want to estimate the average number of pregnancies	~ the average number of pregnancies	~ !
+I want to estimate the average number of car crashes	~ the average number of car crashes	~ !
+I want to estimate the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I want to estimate the average number of trees	~ the average number of trees	~ !
+I want to estimate the average number of power failures	~ the average number of power failures	~ !
+I want to estimate the median number of pregnancies	~ the median number of pregnancies	~ !
+I want to estimate the median number of car crashes	~ the median number of car crashes	~ !
+I want to estimate the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I want to estimate the median number of trees	~ the median number of trees	~ !
+I want to estimate the median number of power failures	~ the median number of power failures	~ !
+I want to estimate the price of cars	~ the price of cars	~ !
+I want to estimate the price of cats	~ the price of cats	~ !
+I want to estimate the price of dogs	~ the price of dogs	~ !
+I want to estimate the price of candy	~ the price of candy	~ !
+I want to estimate the price of steak	~ the price of steak	~ !
+I want to estimate the price of beef	~ the price of beef	~ !
+I want to estimate the price of pancakes	~ the price of pancakes	~ !
+I want to estimate the price of sugar	~ the price of sugar	~ !
+I want to estimate the price of bread	~ the price of bread	~ !
+I want to estimate the price of water	~ the price of water	~ !
+I want to predict pregnancies	~ pregnancies	~ !
+I want to predict car crashes	~ car crashes	~ !
+I want to predict criminal incidents	~ criminal incidents	~ !
+I want to predict trees	~ trees	~ !
+I want to predict power failures	~ power failures	~ !
+I want to predict the number of pregnancies	~ the number of pregnancies	~ !
+I want to predict the number of car crashes	~ the number of car crashes	~ !
+I want to predict the number of criminal incidents	~ the number of criminal incidents	~ !
+I want to predict the number of trees	~ the number of trees	~ !
+I want to predict the number of power failures	~ the number of power failures	~ !
+I want to predict the average number of pregnancies	~ the average number of pregnancies	~ !
+I want to predict the average number of car crashes	~ the average number of car crashes	~ !
+I want to predict the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I want to predict the average number of trees	~ the average number of trees	~ !
+I want to predict the average number of power failures	~ the average number of power failures	~ !
+I want to predict the median number of pregnancies	~ the median number of pregnancies	~ !
+I want to predict the median number of car crashes	~ the median number of car crashes	~ !
+I want to predict the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I want to predict the median number of trees	~ the median number of trees	~ !
+I want to predict the median number of power failures	~ the median number of power failures	~ !
+I want to predict the price of cars	~ the price of cars	~ !
+I want to predict the price of cats	~ the price of cats	~ !
+I want to predict the price of dogs	~ the price of dogs	~ !
+I want to predict the price of candy	~ the price of candy	~ !
+I want to predict the price of steak	~ the price of steak	~ !
+I want to predict the price of beef	~ the price of beef	~ !
+I want to predict the price of pancakes	~ the price of pancakes	~ !
+I want to predict the price of sugar	~ the price of sugar	~ !
+I want to predict the price of bread	~ the price of bread	~ !
+I want to predict the price of water	~ the price of water	~ !
+I want to forecast pregnancies	~ pregnancies	~ !
+I want to forecast car crashes	~ car crashes	~ !
+I want to forecast criminal incidents	~ criminal incidents	~ !
+I want to forecast trees	~ trees	~ !
+I want to forecast power failures	~ power failures	~ !
+I want to forecast the number of pregnancies	~ the number of pregnancies	~ !
+I want to forecast the number of car crashes	~ the number of car crashes	~ !
+I want to forecast the number of criminal incidents	~ the number of criminal incidents	~ !
+I want to forecast the number of trees	~ the number of trees	~ !
+I want to forecast the number of power failures	~ the number of power failures	~ !
+I want to forecast the average number of pregnancies	~ the average number of pregnancies	~ !
+I want to forecast the average number of car crashes	~ the average number of car crashes	~ !
+I want to forecast the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I want to forecast the average number of trees	~ the average number of trees	~ !
+I want to forecast the average number of power failures	~ the average number of power failures	~ !
+I want to forecast the median number of pregnancies	~ the median number of pregnancies	~ !
+I want to forecast the median number of car crashes	~ the median number of car crashes	~ !
+I want to forecast the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I want to forecast the median number of trees	~ the median number of trees	~ !
+I want to forecast the median number of power failures	~ the median number of power failures	~ !
+I want to forecast the price of cars	~ the price of cars	~ !
+I want to forecast the price of cats	~ the price of cats	~ !
+I want to forecast the price of dogs	~ the price of dogs	~ !
+I want to forecast the price of candy	~ the price of candy	~ !
+I want to forecast the price of steak	~ the price of steak	~ !
+I want to forecast the price of beef	~ the price of beef	~ !
+I want to forecast the price of pancakes	~ the price of pancakes	~ !
+I want to forecast the price of sugar	~ the price of sugar	~ !
+I want to forecast the price of bread	~ the price of bread	~ !
+I want to forecast the price of water	~ the price of water	~ !
+I want to project pregnancies	~ pregnancies	~ !
+I want to project car crashes	~ car crashes	~ !
+I want to project criminal incidents	~ criminal incidents	~ !
+I want to project trees	~ trees	~ !
+I want to project power failures	~ power failures	~ !
+I want to project the number of pregnancies	~ the number of pregnancies	~ !
+I want to project the number of car crashes	~ the number of car crashes	~ !
+I want to project the number of criminal incidents	~ the number of criminal incidents	~ !
+I want to project the number of trees	~ the number of trees	~ !
+I want to project the number of power failures	~ the number of power failures	~ !
+I want to project the average number of pregnancies	~ the average number of pregnancies	~ !
+I want to project the average number of car crashes	~ the average number of car crashes	~ !
+I want to project the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I want to project the average number of trees	~ the average number of trees	~ !
+I want to project the average number of power failures	~ the average number of power failures	~ !
+I want to project the median number of pregnancies	~ the median number of pregnancies	~ !
+I want to project the median number of car crashes	~ the median number of car crashes	~ !
+I want to project the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I want to project the median number of trees	~ the median number of trees	~ !
+I want to project the median number of power failures	~ the median number of power failures	~ !
+I want to project the price of cars	~ the price of cars	~ !
+I want to project the price of cats	~ the price of cats	~ !
+I want to project the price of dogs	~ the price of dogs	~ !
+I want to project the price of candy	~ the price of candy	~ !
+I want to project the price of steak	~ the price of steak	~ !
+I want to project the price of beef	~ the price of beef	~ !
+I want to project the price of pancakes	~ the price of pancakes	~ !
+I want to project the price of sugar	~ the price of sugar	~ !
+I want to project the price of bread	~ the price of bread	~ !
+I want to project the price of water	~ the price of water	~ !
+I want to understand pregnancies	~ pregnancies	~ !
+I want to understand car crashes	~ car crashes	~ !
+I want to understand criminal incidents	~ criminal incidents	~ !
+I want to understand trees	~ trees	~ !
+I want to understand power failures	~ power failures	~ !
+I want to understand the number of pregnancies	~ the number of pregnancies	~ !
+I want to understand the number of car crashes	~ the number of car crashes	~ !
+I want to understand the number of criminal incidents	~ the number of criminal incidents	~ !
+I want to understand the number of trees	~ the number of trees	~ !
+I want to understand the number of power failures	~ the number of power failures	~ !
+I want to understand the average number of pregnancies	~ the average number of pregnancies	~ !
+I want to understand the average number of car crashes	~ the average number of car crashes	~ !
+I want to understand the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I want to understand the average number of trees	~ the average number of trees	~ !
+I want to understand the average number of power failures	~ the average number of power failures	~ !
+I want to understand the median number of pregnancies	~ the median number of pregnancies	~ !
+I want to understand the median number of car crashes	~ the median number of car crashes	~ !
+I want to understand the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I want to understand the median number of trees	~ the median number of trees	~ !
+I want to understand the median number of power failures	~ the median number of power failures	~ !
+I want to understand the price of cars	~ the price of cars	~ !
+I want to understand the price of cats	~ the price of cats	~ !
+I want to understand the price of dogs	~ the price of dogs	~ !
+I want to understand the price of candy	~ the price of candy	~ !
+I want to understand the price of steak	~ the price of steak	~ !
+I want to understand the price of beef	~ the price of beef	~ !
+I want to understand the price of pancakes	~ the price of pancakes	~ !
+I want to understand the price of sugar	~ the price of sugar	~ !
+I want to understand the price of bread	~ the price of bread	~ !
+I want to understand the price of water	~ the price of water	~ !
+I need to model pregnancies	~ pregnancies	~ !
+I need to model car crashes	~ car crashes	~ !
+I need to model criminal incidents	~ criminal incidents	~ !
+I need to model trees	~ trees	~ !
+I need to model power failures	~ power failures	~ !
+I need to model the number of pregnancies	~ the number of pregnancies	~ !
+I need to model the number of car crashes	~ the number of car crashes	~ !
+I need to model the number of criminal incidents	~ the number of criminal incidents	~ !
+I need to model the number of trees	~ the number of trees	~ !
+I need to model the number of power failures	~ the number of power failures	~ !
+I need to model the average number of pregnancies	~ the average number of pregnancies	~ !
+I need to model the average number of car crashes	~ the average number of car crashes	~ !
+I need to model the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I need to model the average number of trees	~ the average number of trees	~ !
+I need to model the average number of power failures	~ the average number of power failures	~ !
+I need to model the median number of pregnancies	~ the median number of pregnancies	~ !
+I need to model the median number of car crashes	~ the median number of car crashes	~ !
+I need to model the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I need to model the median number of trees	~ the median number of trees	~ !
+I need to model the median number of power failures	~ the median number of power failures	~ !
+I need to model the price of cars	~ the price of cars	~ !
+I need to model the price of cats	~ the price of cats	~ !
+I need to model the price of dogs	~ the price of dogs	~ !
+I need to model the price of candy	~ the price of candy	~ !
+I need to model the price of steak	~ the price of steak	~ !
+I need to model the price of beef	~ the price of beef	~ !
+I need to model the price of pancakes	~ the price of pancakes	~ !
+I need to model the price of sugar	~ the price of sugar	~ !
+I need to model the price of bread	~ the price of bread	~ !
+I need to model the price of water	~ the price of water	~ !
+I need to estimate pregnancies	~ pregnancies	~ !
+I need to estimate car crashes	~ car crashes	~ !
+I need to estimate criminal incidents	~ criminal incidents	~ !
+I need to estimate trees	~ trees	~ !
+I need to estimate power failures	~ power failures	~ !
+I need to estimate the number of pregnancies	~ the number of pregnancies	~ !
+I need to estimate the number of car crashes	~ the number of car crashes	~ !
+I need to estimate the number of criminal incidents	~ the number of criminal incidents	~ !
+I need to estimate the number of trees	~ the number of trees	~ !
+I need to estimate the number of power failures	~ the number of power failures	~ !
+I need to estimate the average number of pregnancies	~ the average number of pregnancies	~ !
+I need to estimate the average number of car crashes	~ the average number of car crashes	~ !
+I need to estimate the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I need to estimate the average number of trees	~ the average number of trees	~ !
+I need to estimate the average number of power failures	~ the average number of power failures	~ !
+I need to estimate the median number of pregnancies	~ the median number of pregnancies	~ !
+I need to estimate the median number of car crashes	~ the median number of car crashes	~ !
+I need to estimate the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I need to estimate the median number of trees	~ the median number of trees	~ !
+I need to estimate the median number of power failures	~ the median number of power failures	~ !
+I need to estimate the price of cars	~ the price of cars	~ !
+I need to estimate the price of cats	~ the price of cats	~ !
+I need to estimate the price of dogs	~ the price of dogs	~ !
+I need to estimate the price of candy	~ the price of candy	~ !
+I need to estimate the price of steak	~ the price of steak	~ !
+I need to estimate the price of beef	~ the price of beef	~ !
+I need to estimate the price of pancakes	~ the price of pancakes	~ !
+I need to estimate the price of sugar	~ the price of sugar	~ !
+I need to estimate the price of bread	~ the price of bread	~ !
+I need to estimate the price of water	~ the price of water	~ !
+I need to predict pregnancies	~ pregnancies	~ !
+I need to predict car crashes	~ car crashes	~ !
+I need to predict criminal incidents	~ criminal incidents	~ !
+I need to predict trees	~ trees	~ !
+I need to predict power failures	~ power failures	~ !
+I need to predict the number of pregnancies	~ the number of pregnancies	~ !
+I need to predict the number of car crashes	~ the number of car crashes	~ !
+I need to predict the number of criminal incidents	~ the number of criminal incidents	~ !
+I need to predict the number of trees	~ the number of trees	~ !
+I need to predict the number of power failures	~ the number of power failures	~ !
+I need to predict the average number of pregnancies	~ the average number of pregnancies	~ !
+I need to predict the average number of car crashes	~ the average number of car crashes	~ !
+I need to predict the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I need to predict the average number of trees	~ the average number of trees	~ !
+I need to predict the average number of power failures	~ the average number of power failures	~ !
+I need to predict the median number of pregnancies	~ the median number of pregnancies	~ !
+I need to predict the median number of car crashes	~ the median number of car crashes	~ !
+I need to predict the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I need to predict the median number of trees	~ the median number of trees	~ !
+I need to predict the median number of power failures	~ the median number of power failures	~ !
+I need to predict the price of cars	~ the price of cars	~ !
+I need to predict the price of cats	~ the price of cats	~ !
+I need to predict the price of dogs	~ the price of dogs	~ !
+I need to predict the price of candy	~ the price of candy	~ !
+I need to predict the price of steak	~ the price of steak	~ !
+I need to predict the price of beef	~ the price of beef	~ !
+I need to predict the price of pancakes	~ the price of pancakes	~ !
+I need to predict the price of sugar	~ the price of sugar	~ !
+I need to predict the price of bread	~ the price of bread	~ !
+I need to predict the price of water	~ the price of water	~ !
+I need to forecast pregnancies	~ pregnancies	~ !
+I need to forecast car crashes	~ car crashes	~ !
+I need to forecast criminal incidents	~ criminal incidents	~ !
+I need to forecast trees	~ trees	~ !
+I need to forecast power failures	~ power failures	~ !
+I need to forecast the number of pregnancies	~ the number of pregnancies	~ !
+I need to forecast the number of car crashes	~ the number of car crashes	~ !
+I need to forecast the number of criminal incidents	~ the number of criminal incidents	~ !
+I need to forecast the number of trees	~ the number of trees	~ !
+I need to forecast the number of power failures	~ the number of power failures	~ !
+I need to forecast the average number of pregnancies	~ the average number of pregnancies	~ !
+I need to forecast the average number of car crashes	~ the average number of car crashes	~ !
+I need to forecast the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I need to forecast the average number of trees	~ the average number of trees	~ !
+I need to forecast the average number of power failures	~ the average number of power failures	~ !
+I need to forecast the median number of pregnancies	~ the median number of pregnancies	~ !
+I need to forecast the median number of car crashes	~ the median number of car crashes	~ !
+I need to forecast the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I need to forecast the median number of trees	~ the median number of trees	~ !
+I need to forecast the median number of power failures	~ the median number of power failures	~ !
+I need to forecast the price of cars	~ the price of cars	~ !
+I need to forecast the price of cats	~ the price of cats	~ !
+I need to forecast the price of dogs	~ the price of dogs	~ !
+I need to forecast the price of candy	~ the price of candy	~ !
+I need to forecast the price of steak	~ the price of steak	~ !
+I need to forecast the price of beef	~ the price of beef	~ !
+I need to forecast the price of pancakes	~ the price of pancakes	~ !
+I need to forecast the price of sugar	~ the price of sugar	~ !
+I need to forecast the price of bread	~ the price of bread	~ !
+I need to forecast the price of water	~ the price of water	~ !
+I need to project pregnancies	~ pregnancies	~ !
+I need to project car crashes	~ car crashes	~ !
+I need to project criminal incidents	~ criminal incidents	~ !
+I need to project trees	~ trees	~ !
+I need to project power failures	~ power failures	~ !
+I need to project the number of pregnancies	~ the number of pregnancies	~ !
+I need to project the number of car crashes	~ the number of car crashes	~ !
+I need to project the number of criminal incidents	~ the number of criminal incidents	~ !
+I need to project the number of trees	~ the number of trees	~ !
+I need to project the number of power failures	~ the number of power failures	~ !
+I need to project the average number of pregnancies	~ the average number of pregnancies	~ !
+I need to project the average number of car crashes	~ the average number of car crashes	~ !
+I need to project the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I need to project the average number of trees	~ the average number of trees	~ !
+I need to project the average number of power failures	~ the average number of power failures	~ !
+I need to project the median number of pregnancies	~ the median number of pregnancies	~ !
+I need to project the median number of car crashes	~ the median number of car crashes	~ !
+I need to project the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I need to project the median number of trees	~ the median number of trees	~ !
+I need to project the median number of power failures	~ the median number of power failures	~ !
+I need to project the price of cars	~ the price of cars	~ !
+I need to project the price of cats	~ the price of cats	~ !
+I need to project the price of dogs	~ the price of dogs	~ !
+I need to project the price of candy	~ the price of candy	~ !
+I need to project the price of steak	~ the price of steak	~ !
+I need to project the price of beef	~ the price of beef	~ !
+I need to project the price of pancakes	~ the price of pancakes	~ !
+I need to project the price of sugar	~ the price of sugar	~ !
+I need to project the price of bread	~ the price of bread	~ !
+I need to project the price of water	~ the price of water	~ !
+I need to understand pregnancies	~ pregnancies	~ !
+I need to understand car crashes	~ car crashes	~ !
+I need to understand criminal incidents	~ criminal incidents	~ !
+I need to understand trees	~ trees	~ !
+I need to understand power failures	~ power failures	~ !
+I need to understand the number of pregnancies	~ the number of pregnancies	~ !
+I need to understand the number of car crashes	~ the number of car crashes	~ !
+I need to understand the number of criminal incidents	~ the number of criminal incidents	~ !
+I need to understand the number of trees	~ the number of trees	~ !
+I need to understand the number of power failures	~ the number of power failures	~ !
+I need to understand the average number of pregnancies	~ the average number of pregnancies	~ !
+I need to understand the average number of car crashes	~ the average number of car crashes	~ !
+I need to understand the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I need to understand the average number of trees	~ the average number of trees	~ !
+I need to understand the average number of power failures	~ the average number of power failures	~ !
+I need to understand the median number of pregnancies	~ the median number of pregnancies	~ !
+I need to understand the median number of car crashes	~ the median number of car crashes	~ !
+I need to understand the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I need to understand the median number of trees	~ the median number of trees	~ !
+I need to understand the median number of power failures	~ the median number of power failures	~ !
+I need to understand the price of cars	~ the price of cars	~ !
+I need to understand the price of cats	~ the price of cats	~ !
+I need to understand the price of dogs	~ the price of dogs	~ !
+I need to understand the price of candy	~ the price of candy	~ !
+I need to understand the price of steak	~ the price of steak	~ !
+I need to understand the price of beef	~ the price of beef	~ !
+I need to understand the price of pancakes	~ the price of pancakes	~ !
+I need to understand the price of sugar	~ the price of sugar	~ !
+I need to understand the price of bread	~ the price of bread	~ !
+I need to understand the price of water	~ the price of water	~ !
+Need to model pregnancies	~ pregnancies	~ !
+Need to model car crashes	~ car crashes	~ !
+Need to model criminal incidents	~ criminal incidents	~ !
+Need to model trees	~ trees	~ !
+Need to model power failures	~ power failures	~ !
+Need to model the number of pregnancies	~ the number of pregnancies	~ !
+Need to model the number of car crashes	~ the number of car crashes	~ !
+Need to model the number of criminal incidents	~ the number of criminal incidents	~ !
+Need to model the number of trees	~ the number of trees	~ !
+Need to model the number of power failures	~ the number of power failures	~ !
+Need to model the average number of pregnancies	~ the average number of pregnancies	~ !
+Need to model the average number of car crashes	~ the average number of car crashes	~ !
+Need to model the average number of criminal incidents	~ the average number of criminal incidents	~ !
+Need to model the average number of trees	~ the average number of trees	~ !
+Need to model the average number of power failures	~ the average number of power failures	~ !
+Need to model the median number of pregnancies	~ the median number of pregnancies	~ !
+Need to model the median number of car crashes	~ the median number of car crashes	~ !
+Need to model the median number of criminal incidents	~ the median number of criminal incidents	~ !
+Need to model the median number of trees	~ the median number of trees	~ !
+Need to model the median number of power failures	~ the median number of power failures	~ !
+Need to model the price of cars	~ the price of cars	~ !
+Need to model the price of cats	~ the price of cats	~ !
+Need to model the price of dogs	~ the price of dogs	~ !
+Need to model the price of candy	~ the price of candy	~ !
+Need to model the price of steak	~ the price of steak	~ !
+Need to model the price of beef	~ the price of beef	~ !
+Need to model the price of pancakes	~ the price of pancakes	~ !
+Need to model the price of sugar	~ the price of sugar	~ !
+Need to model the price of bread	~ the price of bread	~ !
+Need to model the price of water	~ the price of water	~ !
+Need to estimate pregnancies	~ pregnancies	~ !
+Need to estimate car crashes	~ car crashes	~ !
+Need to estimate criminal incidents	~ criminal incidents	~ !
+Need to estimate trees	~ trees	~ !
+Need to estimate power failures	~ power failures	~ !
+Need to estimate the number of pregnancies	~ the number of pregnancies	~ !
+Need to estimate the number of car crashes	~ the number of car crashes	~ !
+Need to estimate the number of criminal incidents	~ the number of criminal incidents	~ !
+Need to estimate the number of trees	~ the number of trees	~ !
+Need to estimate the number of power failures	~ the number of power failures	~ !
+Need to estimate the average number of pregnancies	~ the average number of pregnancies	~ !
+Need to estimate the average number of car crashes	~ the average number of car crashes	~ !
+Need to estimate the average number of criminal incidents	~ the average number of criminal incidents	~ !
+Need to estimate the average number of trees	~ the average number of trees	~ !
+Need to estimate the average number of power failures	~ the average number of power failures	~ !
+Need to estimate the median number of pregnancies	~ the median number of pregnancies	~ !
+Need to estimate the median number of car crashes	~ the median number of car crashes	~ !
+Need to estimate the median number of criminal incidents	~ the median number of criminal incidents	~ !
+Need to estimate the median number of trees	~ the median number of trees	~ !
+Need to estimate the median number of power failures	~ the median number of power failures	~ !
+Need to estimate the price of cars	~ the price of cars	~ !
+Need to estimate the price of cats	~ the price of cats	~ !
+Need to estimate the price of dogs	~ the price of dogs	~ !
+Need to estimate the price of candy	~ the price of candy	~ !
+Need to estimate the price of steak	~ the price of steak	~ !
+Need to estimate the price of beef	~ the price of beef	~ !
+Need to estimate the price of pancakes	~ the price of pancakes	~ !
+Need to estimate the price of sugar	~ the price of sugar	~ !
+Need to estimate the price of bread	~ the price of bread	~ !
+Need to estimate the price of water	~ the price of water	~ !
+Need to predict pregnancies	~ pregnancies	~ !
+Need to predict car crashes	~ car crashes	~ !
+Need to predict criminal incidents	~ criminal incidents	~ !
+Need to predict trees	~ trees	~ !
+Need to predict power failures	~ power failures	~ !
+Need to predict the number of pregnancies	~ the number of pregnancies	~ !
+Need to predict the number of car crashes	~ the number of car crashes	~ !
+Need to predict the number of criminal incidents	~ the number of criminal incidents	~ !
+Need to predict the number of trees	~ the number of trees	~ !
+Need to predict the number of power failures	~ the number of power failures	~ !
+Need to predict the average number of pregnancies	~ the average number of pregnancies	~ !
+Need to predict the average number of car crashes	~ the average number of car crashes	~ !
+Need to predict the average number of criminal incidents	~ the average number of criminal incidents	~ !
+Need to predict the average number of trees	~ the average number of trees	~ !
+Need to predict the average number of power failures	~ the average number of power failures	~ !
+Need to predict the median number of pregnancies	~ the median number of pregnancies	~ !
+Need to predict the median number of car crashes	~ the median number of car crashes	~ !
+Need to predict the median number of criminal incidents	~ the median number of criminal incidents	~ !
+Need to predict the median number of trees	~ the median number of trees	~ !
+Need to predict the median number of power failures	~ the median number of power failures	~ !
+Need to predict the price of cars	~ the price of cars	~ !
+Need to predict the price of cats	~ the price of cats	~ !
+Need to predict the price of dogs	~ the price of dogs	~ !
+Need to predict the price of candy	~ the price of candy	~ !
+Need to predict the price of steak	~ the price of steak	~ !
+Need to predict the price of beef	~ the price of beef	~ !
+Need to predict the price of pancakes	~ the price of pancakes	~ !
+Need to predict the price of sugar	~ the price of sugar	~ !
+Need to predict the price of bread	~ the price of bread	~ !
+Need to predict the price of water	~ the price of water	~ !
+Need to forecast pregnancies	~ pregnancies	~ !
+Need to forecast car crashes	~ car crashes	~ !
+Need to forecast criminal incidents	~ criminal incidents	~ !
+Need to forecast trees	~ trees	~ !
+Need to forecast power failures	~ power failures	~ !
+Need to forecast the number of pregnancies	~ the number of pregnancies	~ !
+Need to forecast the number of car crashes	~ the number of car crashes	~ !
+Need to forecast the number of criminal incidents	~ the number of criminal incidents	~ !
+Need to forecast the number of trees	~ the number of trees	~ !
+Need to forecast the number of power failures	~ the number of power failures	~ !
+Need to forecast the average number of pregnancies	~ the average number of pregnancies	~ !
+Need to forecast the average number of car crashes	~ the average number of car crashes	~ !
+Need to forecast the average number of criminal incidents	~ the average number of criminal incidents	~ !
+Need to forecast the average number of trees	~ the average number of trees	~ !
+Need to forecast the average number of power failures	~ the average number of power failures	~ !
+Need to forecast the median number of pregnancies	~ the median number of pregnancies	~ !
+Need to forecast the median number of car crashes	~ the median number of car crashes	~ !
+Need to forecast the median number of criminal incidents	~ the median number of criminal incidents	~ !
+Need to forecast the median number of trees	~ the median number of trees	~ !
+Need to forecast the median number of power failures	~ the median number of power failures	~ !
+Need to forecast the price of cars	~ the price of cars	~ !
+Need to forecast the price of cats	~ the price of cats	~ !
+Need to forecast the price of dogs	~ the price of dogs	~ !
+Need to forecast the price of candy	~ the price of candy	~ !
+Need to forecast the price of steak	~ the price of steak	~ !
+Need to forecast the price of beef	~ the price of beef	~ !
+Need to forecast the price of pancakes	~ the price of pancakes	~ !
+Need to forecast the price of sugar	~ the price of sugar	~ !
+Need to forecast the price of bread	~ the price of bread	~ !
+Need to forecast the price of water	~ the price of water	~ !
+Need to project pregnancies	~ pregnancies	~ !
+Need to project car crashes	~ car crashes	~ !
+Need to project criminal incidents	~ criminal incidents	~ !
+Need to project trees	~ trees	~ !
+Need to project power failures	~ power failures	~ !
+Need to project the number of pregnancies	~ the number of pregnancies	~ !
+Need to project the number of car crashes	~ the number of car crashes	~ !
+Need to project the number of criminal incidents	~ the number of criminal incidents	~ !
+Need to project the number of trees	~ the number of trees	~ !
+Need to project the number of power failures	~ the number of power failures	~ !
+Need to project the average number of pregnancies	~ the average number of pregnancies	~ !
+Need to project the average number of car crashes	~ the average number of car crashes	~ !
+Need to project the average number of criminal incidents	~ the average number of criminal incidents	~ !
+Need to project the average number of trees	~ the average number of trees	~ !
+Need to project the average number of power failures	~ the average number of power failures	~ !
+Need to project the median number of pregnancies	~ the median number of pregnancies	~ !
+Need to project the median number of car crashes	~ the median number of car crashes	~ !
+Need to project the median number of criminal incidents	~ the median number of criminal incidents	~ !
+Need to project the median number of trees	~ the median number of trees	~ !
+Need to project the median number of power failures	~ the median number of power failures	~ !
+Need to project the price of cars	~ the price of cars	~ !
+Need to project the price of cats	~ the price of cats	~ !
+Need to project the price of dogs	~ the price of dogs	~ !
+Need to project the price of candy	~ the price of candy	~ !
+Need to project the price of steak	~ the price of steak	~ !
+Need to project the price of beef	~ the price of beef	~ !
+Need to project the price of pancakes	~ the price of pancakes	~ !
+Need to project the price of sugar	~ the price of sugar	~ !
+Need to project the price of bread	~ the price of bread	~ !
+Need to project the price of water	~ the price of water	~ !
+Need to understand pregnancies	~ pregnancies	~ !
+Need to understand car crashes	~ car crashes	~ !
+Need to understand criminal incidents	~ criminal incidents	~ !
+Need to understand trees	~ trees	~ !
+Need to understand power failures	~ power failures	~ !
+Need to understand the number of pregnancies	~ the number of pregnancies	~ !
+Need to understand the number of car crashes	~ the number of car crashes	~ !
+Need to understand the number of criminal incidents	~ the number of criminal incidents	~ !
+Need to understand the number of trees	~ the number of trees	~ !
+Need to understand the number of power failures	~ the number of power failures	~ !
+Need to understand the average number of pregnancies	~ the average number of pregnancies	~ !
+Need to understand the average number of car crashes	~ the average number of car crashes	~ !
+Need to understand the average number of criminal incidents	~ the average number of criminal incidents	~ !
+Need to understand the average number of trees	~ the average number of trees	~ !
+Need to understand the average number of power failures	~ the average number of power failures	~ !
+Need to understand the median number of pregnancies	~ the median number of pregnancies	~ !
+Need to understand the median number of car crashes	~ the median number of car crashes	~ !
+Need to understand the median number of criminal incidents	~ the median number of criminal incidents	~ !
+Need to understand the median number of trees	~ the median number of trees	~ !
+Need to understand the median number of power failures	~ the median number of power failures	~ !
+Need to understand the price of cars	~ the price of cars	~ !
+Need to understand the price of cats	~ the price of cats	~ !
+Need to understand the price of dogs	~ the price of dogs	~ !
+Need to understand the price of candy	~ the price of candy	~ !
+Need to understand the price of steak	~ the price of steak	~ !
+Need to understand the price of beef	~ the price of beef	~ !
+Need to understand the price of pancakes	~ the price of pancakes	~ !
+Need to understand the price of sugar	~ the price of sugar	~ !
+Need to understand the price of bread	~ the price of bread	~ !
+Need to understand the price of water	~ the price of water	~ !
+I'd like to model pregnancies	~ pregnancies	~ !
+I'd like to model car crashes	~ car crashes	~ !
+I'd like to model criminal incidents	~ criminal incidents	~ !
+I'd like to model trees	~ trees	~ !
+I'd like to model power failures	~ power failures	~ !
+I'd like to model the number of pregnancies	~ the number of pregnancies	~ !
+I'd like to model the number of car crashes	~ the number of car crashes	~ !
+I'd like to model the number of criminal incidents	~ the number of criminal incidents	~ !
+I'd like to model the number of trees	~ the number of trees	~ !
+I'd like to model the number of power failures	~ the number of power failures	~ !
+I'd like to model the average number of pregnancies	~ the average number of pregnancies	~ !
+I'd like to model the average number of car crashes	~ the average number of car crashes	~ !
+I'd like to model the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I'd like to model the average number of trees	~ the average number of trees	~ !
+I'd like to model the average number of power failures	~ the average number of power failures	~ !
+I'd like to model the median number of pregnancies	~ the median number of pregnancies	~ !
+I'd like to model the median number of car crashes	~ the median number of car crashes	~ !
+I'd like to model the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I'd like to model the median number of trees	~ the median number of trees	~ !
+I'd like to model the median number of power failures	~ the median number of power failures	~ !
+I'd like to model the price of cars	~ the price of cars	~ !
+I'd like to model the price of cats	~ the price of cats	~ !
+I'd like to model the price of dogs	~ the price of dogs	~ !
+I'd like to model the price of candy	~ the price of candy	~ !
+I'd like to model the price of steak	~ the price of steak	~ !
+I'd like to model the price of beef	~ the price of beef	~ !
+I'd like to model the price of pancakes	~ the price of pancakes	~ !
+I'd like to model the price of sugar	~ the price of sugar	~ !
+I'd like to model the price of bread	~ the price of bread	~ !
+I'd like to model the price of water	~ the price of water	~ !
+I'd like to estimate pregnancies	~ pregnancies	~ !
+I'd like to estimate car crashes	~ car crashes	~ !
+I'd like to estimate criminal incidents	~ criminal incidents	~ !
+I'd like to estimate trees	~ trees	~ !
+I'd like to estimate power failures	~ power failures	~ !
+I'd like to estimate the number of pregnancies	~ the number of pregnancies	~ !
+I'd like to estimate the number of car crashes	~ the number of car crashes	~ !
+I'd like to estimate the number of criminal incidents	~ the number of criminal incidents	~ !
+I'd like to estimate the number of trees	~ the number of trees	~ !
+I'd like to estimate the number of power failures	~ the number of power failures	~ !
+I'd like to estimate the average number of pregnancies	~ the average number of pregnancies	~ !
+I'd like to estimate the average number of car crashes	~ the average number of car crashes	~ !
+I'd like to estimate the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I'd like to estimate the average number of trees	~ the average number of trees	~ !
+I'd like to estimate the average number of power failures	~ the average number of power failures	~ !
+I'd like to estimate the median number of pregnancies	~ the median number of pregnancies	~ !
+I'd like to estimate the median number of car crashes	~ the median number of car crashes	~ !
+I'd like to estimate the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I'd like to estimate the median number of trees	~ the median number of trees	~ !
+I'd like to estimate the median number of power failures	~ the median number of power failures	~ !
+I'd like to estimate the price of cars	~ the price of cars	~ !
+I'd like to estimate the price of cats	~ the price of cats	~ !
+I'd like to estimate the price of dogs	~ the price of dogs	~ !
+I'd like to estimate the price of candy	~ the price of candy	~ !
+I'd like to estimate the price of steak	~ the price of steak	~ !
+I'd like to estimate the price of beef	~ the price of beef	~ !
+I'd like to estimate the price of pancakes	~ the price of pancakes	~ !
+I'd like to estimate the price of sugar	~ the price of sugar	~ !
+I'd like to estimate the price of bread	~ the price of bread	~ !
+I'd like to estimate the price of water	~ the price of water	~ !
+I'd like to predict pregnancies	~ pregnancies	~ !
+I'd like to predict car crashes	~ car crashes	~ !
+I'd like to predict criminal incidents	~ criminal incidents	~ !
+I'd like to predict trees	~ trees	~ !
+I'd like to predict power failures	~ power failures	~ !
+I'd like to predict the number of pregnancies	~ the number of pregnancies	~ !
+I'd like to predict the number of car crashes	~ the number of car crashes	~ !
+I'd like to predict the number of criminal incidents	~ the number of criminal incidents	~ !
+I'd like to predict the number of trees	~ the number of trees	~ !
+I'd like to predict the number of power failures	~ the number of power failures	~ !
+I'd like to predict the average number of pregnancies	~ the average number of pregnancies	~ !
+I'd like to predict the average number of car crashes	~ the average number of car crashes	~ !
+I'd like to predict the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I'd like to predict the average number of trees	~ the average number of trees	~ !
+I'd like to predict the average number of power failures	~ the average number of power failures	~ !
+I'd like to predict the median number of pregnancies	~ the median number of pregnancies	~ !
+I'd like to predict the median number of car crashes	~ the median number of car crashes	~ !
+I'd like to predict the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I'd like to predict the median number of trees	~ the median number of trees	~ !
+I'd like to predict the median number of power failures	~ the median number of power failures	~ !
+I'd like to predict the price of cars	~ the price of cars	~ !
+I'd like to predict the price of cats	~ the price of cats	~ !
+I'd like to predict the price of dogs	~ the price of dogs	~ !
+I'd like to predict the price of candy	~ the price of candy	~ !
+I'd like to predict the price of steak	~ the price of steak	~ !
+I'd like to predict the price of beef	~ the price of beef	~ !
+I'd like to predict the price of pancakes	~ the price of pancakes	~ !
+I'd like to predict the price of sugar	~ the price of sugar	~ !
+I'd like to predict the price of bread	~ the price of bread	~ !
+I'd like to predict the price of water	~ the price of water	~ !
+I'd like to forecast pregnancies	~ pregnancies	~ !
+I'd like to forecast car crashes	~ car crashes	~ !
+I'd like to forecast criminal incidents	~ criminal incidents	~ !
+I'd like to forecast trees	~ trees	~ !
+I'd like to forecast power failures	~ power failures	~ !
+I'd like to forecast the number of pregnancies	~ the number of pregnancies	~ !
+I'd like to forecast the number of car crashes	~ the number of car crashes	~ !
+I'd like to forecast the number of criminal incidents	~ the number of criminal incidents	~ !
+I'd like to forecast the number of trees	~ the number of trees	~ !
+I'd like to forecast the number of power failures	~ the number of power failures	~ !
+I'd like to forecast the average number of pregnancies	~ the average number of pregnancies	~ !
+I'd like to forecast the average number of car crashes	~ the average number of car crashes	~ !
+I'd like to forecast the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I'd like to forecast the average number of trees	~ the average number of trees	~ !
+I'd like to forecast the average number of power failures	~ the average number of power failures	~ !
+I'd like to forecast the median number of pregnancies	~ the median number of pregnancies	~ !
+I'd like to forecast the median number of car crashes	~ the median number of car crashes	~ !
+I'd like to forecast the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I'd like to forecast the median number of trees	~ the median number of trees	~ !
+I'd like to forecast the median number of power failures	~ the median number of power failures	~ !
+I'd like to forecast the price of cars	~ the price of cars	~ !
+I'd like to forecast the price of cats	~ the price of cats	~ !
+I'd like to forecast the price of dogs	~ the price of dogs	~ !
+I'd like to forecast the price of candy	~ the price of candy	~ !
+I'd like to forecast the price of steak	~ the price of steak	~ !
+I'd like to forecast the price of beef	~ the price of beef	~ !
+I'd like to forecast the price of pancakes	~ the price of pancakes	~ !
+I'd like to forecast the price of sugar	~ the price of sugar	~ !
+I'd like to forecast the price of bread	~ the price of bread	~ !
+I'd like to forecast the price of water	~ the price of water	~ !
+I'd like to project pregnancies	~ pregnancies	~ !
+I'd like to project car crashes	~ car crashes	~ !
+I'd like to project criminal incidents	~ criminal incidents	~ !
+I'd like to project trees	~ trees	~ !
+I'd like to project power failures	~ power failures	~ !
+I'd like to project the number of pregnancies	~ the number of pregnancies	~ !
+I'd like to project the number of car crashes	~ the number of car crashes	~ !
+I'd like to project the number of criminal incidents	~ the number of criminal incidents	~ !
+I'd like to project the number of trees	~ the number of trees	~ !
+I'd like to project the number of power failures	~ the number of power failures	~ !
+I'd like to project the average number of pregnancies	~ the average number of pregnancies	~ !
+I'd like to project the average number of car crashes	~ the average number of car crashes	~ !
+I'd like to project the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I'd like to project the average number of trees	~ the average number of trees	~ !
+I'd like to project the average number of power failures	~ the average number of power failures	~ !
+I'd like to project the median number of pregnancies	~ the median number of pregnancies	~ !
+I'd like to project the median number of car crashes	~ the median number of car crashes	~ !
+I'd like to project the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I'd like to project the median number of trees	~ the median number of trees	~ !
+I'd like to project the median number of power failures	~ the median number of power failures	~ !
+I'd like to project the price of cars	~ the price of cars	~ !
+I'd like to project the price of cats	~ the price of cats	~ !
+I'd like to project the price of dogs	~ the price of dogs	~ !
+I'd like to project the price of candy	~ the price of candy	~ !
+I'd like to project the price of steak	~ the price of steak	~ !
+I'd like to project the price of beef	~ the price of beef	~ !
+I'd like to project the price of pancakes	~ the price of pancakes	~ !
+I'd like to project the price of sugar	~ the price of sugar	~ !
+I'd like to project the price of bread	~ the price of bread	~ !
+I'd like to project the price of water	~ the price of water	~ !
+I'd like to understand pregnancies	~ pregnancies	~ !
+I'd like to understand car crashes	~ car crashes	~ !
+I'd like to understand criminal incidents	~ criminal incidents	~ !
+I'd like to understand trees	~ trees	~ !
+I'd like to understand power failures	~ power failures	~ !
+I'd like to understand the number of pregnancies	~ the number of pregnancies	~ !
+I'd like to understand the number of car crashes	~ the number of car crashes	~ !
+I'd like to understand the number of criminal incidents	~ the number of criminal incidents	~ !
+I'd like to understand the number of trees	~ the number of trees	~ !
+I'd like to understand the number of power failures	~ the number of power failures	~ !
+I'd like to understand the average number of pregnancies	~ the average number of pregnancies	~ !
+I'd like to understand the average number of car crashes	~ the average number of car crashes	~ !
+I'd like to understand the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I'd like to understand the average number of trees	~ the average number of trees	~ !
+I'd like to understand the average number of power failures	~ the average number of power failures	~ !
+I'd like to understand the median number of pregnancies	~ the median number of pregnancies	~ !
+I'd like to understand the median number of car crashes	~ the median number of car crashes	~ !
+I'd like to understand the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I'd like to understand the median number of trees	~ the median number of trees	~ !
+I'd like to understand the median number of power failures	~ the median number of power failures	~ !
+I'd like to understand the price of cars	~ the price of cars	~ !
+I'd like to understand the price of cats	~ the price of cats	~ !
+I'd like to understand the price of dogs	~ the price of dogs	~ !
+I'd like to understand the price of candy	~ the price of candy	~ !
+I'd like to understand the price of steak	~ the price of steak	~ !
+I'd like to understand the price of beef	~ the price of beef	~ !
+I'd like to understand the price of pancakes	~ the price of pancakes	~ !
+I'd like to understand the price of sugar	~ the price of sugar	~ !
+I'd like to understand the price of bread	~ the price of bread	~ !
+I'd like to understand the price of water	~ the price of water	~ !
+Want to model pregnancies	~ pregnancies	~ !
+Want to model car crashes	~ car crashes	~ !
+Want to model criminal incidents	~ criminal incidents	~ !
+Want to model trees	~ trees	~ !
+Want to model power failures	~ power failures	~ !
+Want to model the number of pregnancies	~ the number of pregnancies	~ !
+Want to model the number of car crashes	~ the number of car crashes	~ !
+Want to model the number of criminal incidents	~ the number of criminal incidents	~ !
+Want to model the number of trees	~ the number of trees	~ !
+Want to model the number of power failures	~ the number of power failures	~ !
+Want to model the average number of pregnancies	~ the average number of pregnancies	~ !
+Want to model the average number of car crashes	~ the average number of car crashes	~ !
+Want to model the average number of criminal incidents	~ the average number of criminal incidents	~ !
+Want to model the average number of trees	~ the average number of trees	~ !
+Want to model the average number of power failures	~ the average number of power failures	~ !
+Want to model the median number of pregnancies	~ the median number of pregnancies	~ !
+Want to model the median number of car crashes	~ the median number of car crashes	~ !
+Want to model the median number of criminal incidents	~ the median number of criminal incidents	~ !
+Want to model the median number of trees	~ the median number of trees	~ !
+Want to model the median number of power failures	~ the median number of power failures	~ !
+Want to model the price of cars	~ the price of cars	~ !
+Want to model the price of cats	~ the price of cats	~ !
+Want to model the price of dogs	~ the price of dogs	~ !
+Want to model the price of candy	~ the price of candy	~ !
+Want to model the price of steak	~ the price of steak	~ !
+Want to model the price of beef	~ the price of beef	~ !
+Want to model the price of pancakes	~ the price of pancakes	~ !
+Want to model the price of sugar	~ the price of sugar	~ !
+Want to model the price of bread	~ the price of bread	~ !
+Want to model the price of water	~ the price of water	~ !
+Want to estimate pregnancies	~ pregnancies	~ !
+Want to estimate car crashes	~ car crashes	~ !
+Want to estimate criminal incidents	~ criminal incidents	~ !
+Want to estimate trees	~ trees	~ !
+Want to estimate power failures	~ power failures	~ !
+Want to estimate the number of pregnancies	~ the number of pregnancies	~ !
+Want to estimate the number of car crashes	~ the number of car crashes	~ !
+Want to estimate the number of criminal incidents	~ the number of criminal incidents	~ !
+Want to estimate the number of trees	~ the number of trees	~ !
+Want to estimate the number of power failures	~ the number of power failures	~ !
+Want to estimate the average number of pregnancies	~ the average number of pregnancies	~ !
+Want to estimate the average number of car crashes	~ the average number of car crashes	~ !
+Want to estimate the average number of criminal incidents	~ the average number of criminal incidents	~ !
+Want to estimate the average number of trees	~ the average number of trees	~ !
+Want to estimate the average number of power failures	~ the average number of power failures	~ !
+Want to estimate the median number of pregnancies	~ the median number of pregnancies	~ !
+Want to estimate the median number of car crashes	~ the median number of car crashes	~ !
+Want to estimate the median number of criminal incidents	~ the median number of criminal incidents	~ !
+Want to estimate the median number of trees	~ the median number of trees	~ !
+Want to estimate the median number of power failures	~ the median number of power failures	~ !
+Want to estimate the price of cars	~ the price of cars	~ !
+Want to estimate the price of cats	~ the price of cats	~ !
+Want to estimate the price of dogs	~ the price of dogs	~ !
+Want to estimate the price of candy	~ the price of candy	~ !
+Want to estimate the price of steak	~ the price of steak	~ !
+Want to estimate the price of beef	~ the price of beef	~ !
+Want to estimate the price of pancakes	~ the price of pancakes	~ !
+Want to estimate the price of sugar	~ the price of sugar	~ !
+Want to estimate the price of bread	~ the price of bread	~ !
+Want to estimate the price of water	~ the price of water	~ !
+Want to predict pregnancies	~ pregnancies	~ !
+Want to predict car crashes	~ car crashes	~ !
+Want to predict criminal incidents	~ criminal incidents	~ !
+Want to predict trees	~ trees	~ !
+Want to predict power failures	~ power failures	~ !
+Want to predict the number of pregnancies	~ the number of pregnancies	~ !
+Want to predict the number of car crashes	~ the number of car crashes	~ !
+Want to predict the number of criminal incidents	~ the number of criminal incidents	~ !
+Want to predict the number of trees	~ the number of trees	~ !
+Want to predict the number of power failures	~ the number of power failures	~ !
+Want to predict the average number of pregnancies	~ the average number of pregnancies	~ !
+Want to predict the average number of car crashes	~ the average number of car crashes	~ !
+Want to predict the average number of criminal incidents	~ the average number of criminal incidents	~ !
+Want to predict the average number of trees	~ the average number of trees	~ !
+Want to predict the average number of power failures	~ the average number of power failures	~ !
+Want to predict the median number of pregnancies	~ the median number of pregnancies	~ !
+Want to predict the median number of car crashes	~ the median number of car crashes	~ !
+Want to predict the median number of criminal incidents	~ the median number of criminal incidents	~ !
+Want to predict the median number of trees	~ the median number of trees	~ !
+Want to predict the median number of power failures	~ the median number of power failures	~ !
+Want to predict the price of cars	~ the price of cars	~ !
+Want to predict the price of cats	~ the price of cats	~ !
+Want to predict the price of dogs	~ the price of dogs	~ !
+Want to predict the price of candy	~ the price of candy	~ !
+Want to predict the price of steak	~ the price of steak	~ !
+Want to predict the price of beef	~ the price of beef	~ !
+Want to predict the price of pancakes	~ the price of pancakes	~ !
+Want to predict the price of sugar	~ the price of sugar	~ !
+Want to predict the price of bread	~ the price of bread	~ !
+Want to predict the price of water	~ the price of water	~ !
+Want to forecast pregnancies	~ pregnancies	~ !
+Want to forecast car crashes	~ car crashes	~ !
+Want to forecast criminal incidents	~ criminal incidents	~ !
+Want to forecast trees	~ trees	~ !
+Want to forecast power failures	~ power failures	~ !
+Want to forecast the number of pregnancies	~ the number of pregnancies	~ !
+Want to forecast the number of car crashes	~ the number of car crashes	~ !
+Want to forecast the number of criminal incidents	~ the number of criminal incidents	~ !
+Want to forecast the number of trees	~ the number of trees	~ !
+Want to forecast the number of power failures	~ the number of power failures	~ !
+Want to forecast the average number of pregnancies	~ the average number of pregnancies	~ !
+Want to forecast the average number of car crashes	~ the average number of car crashes	~ !
+Want to forecast the average number of criminal incidents	~ the average number of criminal incidents	~ !
+Want to forecast the average number of trees	~ the average number of trees	~ !
+Want to forecast the average number of power failures	~ the average number of power failures	~ !
+Want to forecast the median number of pregnancies	~ the median number of pregnancies	~ !
+Want to forecast the median number of car crashes	~ the median number of car crashes	~ !
+Want to forecast the median number of criminal incidents	~ the median number of criminal incidents	~ !
+Want to forecast the median number of trees	~ the median number of trees	~ !
+Want to forecast the median number of power failures	~ the median number of power failures	~ !
+Want to forecast the price of cars	~ the price of cars	~ !
+Want to forecast the price of cats	~ the price of cats	~ !
+Want to forecast the price of dogs	~ the price of dogs	~ !
+Want to forecast the price of candy	~ the price of candy	~ !
+Want to forecast the price of steak	~ the price of steak	~ !
+Want to forecast the price of beef	~ the price of beef	~ !
+Want to forecast the price of pancakes	~ the price of pancakes	~ !
+Want to forecast the price of sugar	~ the price of sugar	~ !
+Want to forecast the price of bread	~ the price of bread	~ !
+Want to forecast the price of water	~ the price of water	~ !
+Want to project pregnancies	~ pregnancies	~ !
+Want to project car crashes	~ car crashes	~ !
+Want to project criminal incidents	~ criminal incidents	~ !
+Want to project trees	~ trees	~ !
+Want to project power failures	~ power failures	~ !
+Want to project the number of pregnancies	~ the number of pregnancies	~ !
+Want to project the number of car crashes	~ the number of car crashes	~ !
+Want to project the number of criminal incidents	~ the number of criminal incidents	~ !
+Want to project the number of trees	~ the number of trees	~ !
+Want to project the number of power failures	~ the number of power failures	~ !
+Want to project the average number of pregnancies	~ the average number of pregnancies	~ !
+Want to project the average number of car crashes	~ the average number of car crashes	~ !
+Want to project the average number of criminal incidents	~ the average number of criminal incidents	~ !
+Want to project the average number of trees	~ the average number of trees	~ !
+Want to project the average number of power failures	~ the average number of power failures	~ !
+Want to project the median number of pregnancies	~ the median number of pregnancies	~ !
+Want to project the median number of car crashes	~ the median number of car crashes	~ !
+Want to project the median number of criminal incidents	~ the median number of criminal incidents	~ !
+Want to project the median number of trees	~ the median number of trees	~ !
+Want to project the median number of power failures	~ the median number of power failures	~ !
+Want to project the price of cars	~ the price of cars	~ !
+Want to project the price of cats	~ the price of cats	~ !
+Want to project the price of dogs	~ the price of dogs	~ !
+Want to project the price of candy	~ the price of candy	~ !
+Want to project the price of steak	~ the price of steak	~ !
+Want to project the price of beef	~ the price of beef	~ !
+Want to project the price of pancakes	~ the price of pancakes	~ !
+Want to project the price of sugar	~ the price of sugar	~ !
+Want to project the price of bread	~ the price of bread	~ !
+Want to project the price of water	~ the price of water	~ !
+Want to understand pregnancies	~ pregnancies	~ !
+Want to understand car crashes	~ car crashes	~ !
+Want to understand criminal incidents	~ criminal incidents	~ !
+Want to understand trees	~ trees	~ !
+Want to understand power failures	~ power failures	~ !
+Want to understand the number of pregnancies	~ the number of pregnancies	~ !
+Want to understand the number of car crashes	~ the number of car crashes	~ !
+Want to understand the number of criminal incidents	~ the number of criminal incidents	~ !
+Want to understand the number of trees	~ the number of trees	~ !
+Want to understand the number of power failures	~ the number of power failures	~ !
+Want to understand the average number of pregnancies	~ the average number of pregnancies	~ !
+Want to understand the average number of car crashes	~ the average number of car crashes	~ !
+Want to understand the average number of criminal incidents	~ the average number of criminal incidents	~ !
+Want to understand the average number of trees	~ the average number of trees	~ !
+Want to understand the average number of power failures	~ the average number of power failures	~ !
+Want to understand the median number of pregnancies	~ the median number of pregnancies	~ !
+Want to understand the median number of car crashes	~ the median number of car crashes	~ !
+Want to understand the median number of criminal incidents	~ the median number of criminal incidents	~ !
+Want to understand the median number of trees	~ the median number of trees	~ !
+Want to understand the median number of power failures	~ the median number of power failures	~ !
+Want to understand the price of cars	~ the price of cars	~ !
+Want to understand the price of cats	~ the price of cats	~ !
+Want to understand the price of dogs	~ the price of dogs	~ !
+Want to understand the price of candy	~ the price of candy	~ !
+Want to understand the price of steak	~ the price of steak	~ !
+Want to understand the price of beef	~ the price of beef	~ !
+Want to understand the price of pancakes	~ the price of pancakes	~ !
+Want to understand the price of sugar	~ the price of sugar	~ !
+Want to understand the price of bread	~ the price of bread	~ !
+Want to understand the price of water	~ the price of water	~ !
+I demand to model pregnancies	~ pregnancies	~ !
+I demand to model car crashes	~ car crashes	~ !
+I demand to model criminal incidents	~ criminal incidents	~ !
+I demand to model trees	~ trees	~ !
+I demand to model power failures	~ power failures	~ !
+I demand to model the number of pregnancies	~ the number of pregnancies	~ !
+I demand to model the number of car crashes	~ the number of car crashes	~ !
+I demand to model the number of criminal incidents	~ the number of criminal incidents	~ !
+I demand to model the number of trees	~ the number of trees	~ !
+I demand to model the number of power failures	~ the number of power failures	~ !
+I demand to model the average number of pregnancies	~ the average number of pregnancies	~ !
+I demand to model the average number of car crashes	~ the average number of car crashes	~ !
+I demand to model the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I demand to model the average number of trees	~ the average number of trees	~ !
+I demand to model the average number of power failures	~ the average number of power failures	~ !
+I demand to model the median number of pregnancies	~ the median number of pregnancies	~ !
+I demand to model the median number of car crashes	~ the median number of car crashes	~ !
+I demand to model the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I demand to model the median number of trees	~ the median number of trees	~ !
+I demand to model the median number of power failures	~ the median number of power failures	~ !
+I demand to model the price of cars	~ the price of cars	~ !
+I demand to model the price of cats	~ the price of cats	~ !
+I demand to model the price of dogs	~ the price of dogs	~ !
+I demand to model the price of candy	~ the price of candy	~ !
+I demand to model the price of steak	~ the price of steak	~ !
+I demand to model the price of beef	~ the price of beef	~ !
+I demand to model the price of pancakes	~ the price of pancakes	~ !
+I demand to model the price of sugar	~ the price of sugar	~ !
+I demand to model the price of bread	~ the price of bread	~ !
+I demand to model the price of water	~ the price of water	~ !
+I demand to estimate pregnancies	~ pregnancies	~ !
+I demand to estimate car crashes	~ car crashes	~ !
+I demand to estimate criminal incidents	~ criminal incidents	~ !
+I demand to estimate trees	~ trees	~ !
+I demand to estimate power failures	~ power failures	~ !
+I demand to estimate the number of pregnancies	~ the number of pregnancies	~ !
+I demand to estimate the number of car crashes	~ the number of car crashes	~ !
+I demand to estimate the number of criminal incidents	~ the number of criminal incidents	~ !
+I demand to estimate the number of trees	~ the number of trees	~ !
+I demand to estimate the number of power failures	~ the number of power failures	~ !
+I demand to estimate the average number of pregnancies	~ the average number of pregnancies	~ !
+I demand to estimate the average number of car crashes	~ the average number of car crashes	~ !
+I demand to estimate the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I demand to estimate the average number of trees	~ the average number of trees	~ !
+I demand to estimate the average number of power failures	~ the average number of power failures	~ !
+I demand to estimate the median number of pregnancies	~ the median number of pregnancies	~ !
+I demand to estimate the median number of car crashes	~ the median number of car crashes	~ !
+I demand to estimate the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I demand to estimate the median number of trees	~ the median number of trees	~ !
+I demand to estimate the median number of power failures	~ the median number of power failures	~ !
+I demand to estimate the price of cars	~ the price of cars	~ !
+I demand to estimate the price of cats	~ the price of cats	~ !
+I demand to estimate the price of dogs	~ the price of dogs	~ !
+I demand to estimate the price of candy	~ the price of candy	~ !
+I demand to estimate the price of steak	~ the price of steak	~ !
+I demand to estimate the price of beef	~ the price of beef	~ !
+I demand to estimate the price of pancakes	~ the price of pancakes	~ !
+I demand to estimate the price of sugar	~ the price of sugar	~ !
+I demand to estimate the price of bread	~ the price of bread	~ !
+I demand to estimate the price of water	~ the price of water	~ !
+I demand to predict pregnancies	~ pregnancies	~ !
+I demand to predict car crashes	~ car crashes	~ !
+I demand to predict criminal incidents	~ criminal incidents	~ !
+I demand to predict trees	~ trees	~ !
+I demand to predict power failures	~ power failures	~ !
+I demand to predict the number of pregnancies	~ the number of pregnancies	~ !
+I demand to predict the number of car crashes	~ the number of car crashes	~ !
+I demand to predict the number of criminal incidents	~ the number of criminal incidents	~ !
+I demand to predict the number of trees	~ the number of trees	~ !
+I demand to predict the number of power failures	~ the number of power failures	~ !
+I demand to predict the average number of pregnancies	~ the average number of pregnancies	~ !
+I demand to predict the average number of car crashes	~ the average number of car crashes	~ !
+I demand to predict the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I demand to predict the average number of trees	~ the average number of trees	~ !
+I demand to predict the average number of power failures	~ the average number of power failures	~ !
+I demand to predict the median number of pregnancies	~ the median number of pregnancies	~ !
+I demand to predict the median number of car crashes	~ the median number of car crashes	~ !
+I demand to predict the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I demand to predict the median number of trees	~ the median number of trees	~ !
+I demand to predict the median number of power failures	~ the median number of power failures	~ !
+I demand to predict the price of cars	~ the price of cars	~ !
+I demand to predict the price of cats	~ the price of cats	~ !
+I demand to predict the price of dogs	~ the price of dogs	~ !
+I demand to predict the price of candy	~ the price of candy	~ !
+I demand to predict the price of steak	~ the price of steak	~ !
+I demand to predict the price of beef	~ the price of beef	~ !
+I demand to predict the price of pancakes	~ the price of pancakes	~ !
+I demand to predict the price of sugar	~ the price of sugar	~ !
+I demand to predict the price of bread	~ the price of bread	~ !
+I demand to predict the price of water	~ the price of water	~ !
+I demand to forecast pregnancies	~ pregnancies	~ !
+I demand to forecast car crashes	~ car crashes	~ !
+I demand to forecast criminal incidents	~ criminal incidents	~ !
+I demand to forecast trees	~ trees	~ !
+I demand to forecast power failures	~ power failures	~ !
+I demand to forecast the number of pregnancies	~ the number of pregnancies	~ !
+I demand to forecast the number of car crashes	~ the number of car crashes	~ !
+I demand to forecast the number of criminal incidents	~ the number of criminal incidents	~ !
+I demand to forecast the number of trees	~ the number of trees	~ !
+I demand to forecast the number of power failures	~ the number of power failures	~ !
+I demand to forecast the average number of pregnancies	~ the average number of pregnancies	~ !
+I demand to forecast the average number of car crashes	~ the average number of car crashes	~ !
+I demand to forecast the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I demand to forecast the average number of trees	~ the average number of trees	~ !
+I demand to forecast the average number of power failures	~ the average number of power failures	~ !
+I demand to forecast the median number of pregnancies	~ the median number of pregnancies	~ !
+I demand to forecast the median number of car crashes	~ the median number of car crashes	~ !
+I demand to forecast the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I demand to forecast the median number of trees	~ the median number of trees	~ !
+I demand to forecast the median number of power failures	~ the median number of power failures	~ !
+I demand to forecast the price of cars	~ the price of cars	~ !
+I demand to forecast the price of cats	~ the price of cats	~ !
+I demand to forecast the price of dogs	~ the price of dogs	~ !
+I demand to forecast the price of candy	~ the price of candy	~ !
+I demand to forecast the price of steak	~ the price of steak	~ !
+I demand to forecast the price of beef	~ the price of beef	~ !
+I demand to forecast the price of pancakes	~ the price of pancakes	~ !
+I demand to forecast the price of sugar	~ the price of sugar	~ !
+I demand to forecast the price of bread	~ the price of bread	~ !
+I demand to forecast the price of water	~ the price of water	~ !
+I demand to project pregnancies	~ pregnancies	~ !
+I demand to project car crashes	~ car crashes	~ !
+I demand to project criminal incidents	~ criminal incidents	~ !
+I demand to project trees	~ trees	~ !
+I demand to project power failures	~ power failures	~ !
+I demand to project the number of pregnancies	~ the number of pregnancies	~ !
+I demand to project the number of car crashes	~ the number of car crashes	~ !
+I demand to project the number of criminal incidents	~ the number of criminal incidents	~ !
+I demand to project the number of trees	~ the number of trees	~ !
+I demand to project the number of power failures	~ the number of power failures	~ !
+I demand to project the average number of pregnancies	~ the average number of pregnancies	~ !
+I demand to project the average number of car crashes	~ the average number of car crashes	~ !
+I demand to project the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I demand to project the average number of trees	~ the average number of trees	~ !
+I demand to project the average number of power failures	~ the average number of power failures	~ !
+I demand to project the median number of pregnancies	~ the median number of pregnancies	~ !
+I demand to project the median number of car crashes	~ the median number of car crashes	~ !
+I demand to project the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I demand to project the median number of trees	~ the median number of trees	~ !
+I demand to project the median number of power failures	~ the median number of power failures	~ !
+I demand to project the price of cars	~ the price of cars	~ !
+I demand to project the price of cats	~ the price of cats	~ !
+I demand to project the price of dogs	~ the price of dogs	~ !
+I demand to project the price of candy	~ the price of candy	~ !
+I demand to project the price of steak	~ the price of steak	~ !
+I demand to project the price of beef	~ the price of beef	~ !
+I demand to project the price of pancakes	~ the price of pancakes	~ !
+I demand to project the price of sugar	~ the price of sugar	~ !
+I demand to project the price of bread	~ the price of bread	~ !
+I demand to project the price of water	~ the price of water	~ !
+I demand to understand pregnancies	~ pregnancies	~ !
+I demand to understand car crashes	~ car crashes	~ !
+I demand to understand criminal incidents	~ criminal incidents	~ !
+I demand to understand trees	~ trees	~ !
+I demand to understand power failures	~ power failures	~ !
+I demand to understand the number of pregnancies	~ the number of pregnancies	~ !
+I demand to understand the number of car crashes	~ the number of car crashes	~ !
+I demand to understand the number of criminal incidents	~ the number of criminal incidents	~ !
+I demand to understand the number of trees	~ the number of trees	~ !
+I demand to understand the number of power failures	~ the number of power failures	~ !
+I demand to understand the average number of pregnancies	~ the average number of pregnancies	~ !
+I demand to understand the average number of car crashes	~ the average number of car crashes	~ !
+I demand to understand the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I demand to understand the average number of trees	~ the average number of trees	~ !
+I demand to understand the average number of power failures	~ the average number of power failures	~ !
+I demand to understand the median number of pregnancies	~ the median number of pregnancies	~ !
+I demand to understand the median number of car crashes	~ the median number of car crashes	~ !
+I demand to understand the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I demand to understand the median number of trees	~ the median number of trees	~ !
+I demand to understand the median number of power failures	~ the median number of power failures	~ !
+I demand to understand the price of cars	~ the price of cars	~ !
+I demand to understand the price of cats	~ the price of cats	~ !
+I demand to understand the price of dogs	~ the price of dogs	~ !
+I demand to understand the price of candy	~ the price of candy	~ !
+I demand to understand the price of steak	~ the price of steak	~ !
+I demand to understand the price of beef	~ the price of beef	~ !
+I demand to understand the price of pancakes	~ the price of pancakes	~ !
+I demand to understand the price of sugar	~ the price of sugar	~ !
+I demand to understand the price of bread	~ the price of bread	~ !
+I demand to understand the price of water	~ the price of water	~ !
+I desire to model pregnancies	~ pregnancies	~ !
+I desire to model car crashes	~ car crashes	~ !
+I desire to model criminal incidents	~ criminal incidents	~ !
+I desire to model trees	~ trees	~ !
+I desire to model power failures	~ power failures	~ !
+I desire to model the number of pregnancies	~ the number of pregnancies	~ !
+I desire to model the number of car crashes	~ the number of car crashes	~ !
+I desire to model the number of criminal incidents	~ the number of criminal incidents	~ !
+I desire to model the number of trees	~ the number of trees	~ !
+I desire to model the number of power failures	~ the number of power failures	~ !
+I desire to model the average number of pregnancies	~ the average number of pregnancies	~ !
+I desire to model the average number of car crashes	~ the average number of car crashes	~ !
+I desire to model the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I desire to model the average number of trees	~ the average number of trees	~ !
+I desire to model the average number of power failures	~ the average number of power failures	~ !
+I desire to model the median number of pregnancies	~ the median number of pregnancies	~ !
+I desire to model the median number of car crashes	~ the median number of car crashes	~ !
+I desire to model the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I desire to model the median number of trees	~ the median number of trees	~ !
+I desire to model the median number of power failures	~ the median number of power failures	~ !
+I desire to model the price of cars	~ the price of cars	~ !
+I desire to model the price of cats	~ the price of cats	~ !
+I desire to model the price of dogs	~ the price of dogs	~ !
+I desire to model the price of candy	~ the price of candy	~ !
+I desire to model the price of steak	~ the price of steak	~ !
+I desire to model the price of beef	~ the price of beef	~ !
+I desire to model the price of pancakes	~ the price of pancakes	~ !
+I desire to model the price of sugar	~ the price of sugar	~ !
+I desire to model the price of bread	~ the price of bread	~ !
+I desire to model the price of water	~ the price of water	~ !
+I desire to estimate pregnancies	~ pregnancies	~ !
+I desire to estimate car crashes	~ car crashes	~ !
+I desire to estimate criminal incidents	~ criminal incidents	~ !
+I desire to estimate trees	~ trees	~ !
+I desire to estimate power failures	~ power failures	~ !
+I desire to estimate the number of pregnancies	~ the number of pregnancies	~ !
+I desire to estimate the number of car crashes	~ the number of car crashes	~ !
+I desire to estimate the number of criminal incidents	~ the number of criminal incidents	~ !
+I desire to estimate the number of trees	~ the number of trees	~ !
+I desire to estimate the number of power failures	~ the number of power failures	~ !
+I desire to estimate the average number of pregnancies	~ the average number of pregnancies	~ !
+I desire to estimate the average number of car crashes	~ the average number of car crashes	~ !
+I desire to estimate the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I desire to estimate the average number of trees	~ the average number of trees	~ !
+I desire to estimate the average number of power failures	~ the average number of power failures	~ !
+I desire to estimate the median number of pregnancies	~ the median number of pregnancies	~ !
+I desire to estimate the median number of car crashes	~ the median number of car crashes	~ !
+I desire to estimate the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I desire to estimate the median number of trees	~ the median number of trees	~ !
+I desire to estimate the median number of power failures	~ the median number of power failures	~ !
+I desire to estimate the price of cars	~ the price of cars	~ !
+I desire to estimate the price of cats	~ the price of cats	~ !
+I desire to estimate the price of dogs	~ the price of dogs	~ !
+I desire to estimate the price of candy	~ the price of candy	~ !
+I desire to estimate the price of steak	~ the price of steak	~ !
+I desire to estimate the price of beef	~ the price of beef	~ !
+I desire to estimate the price of pancakes	~ the price of pancakes	~ !
+I desire to estimate the price of sugar	~ the price of sugar	~ !
+I desire to estimate the price of bread	~ the price of bread	~ !
+I desire to estimate the price of water	~ the price of water	~ !
+I desire to predict pregnancies	~ pregnancies	~ !
+I desire to predict car crashes	~ car crashes	~ !
+I desire to predict criminal incidents	~ criminal incidents	~ !
+I desire to predict trees	~ trees	~ !
+I desire to predict power failures	~ power failures	~ !
+I desire to predict the number of pregnancies	~ the number of pregnancies	~ !
+I desire to predict the number of car crashes	~ the number of car crashes	~ !
+I desire to predict the number of criminal incidents	~ the number of criminal incidents	~ !
+I desire to predict the number of trees	~ the number of trees	~ !
+I desire to predict the number of power failures	~ the number of power failures	~ !
+I desire to predict the average number of pregnancies	~ the average number of pregnancies	~ !
+I desire to predict the average number of car crashes	~ the average number of car crashes	~ !
+I desire to predict the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I desire to predict the average number of trees	~ the average number of trees	~ !
+I desire to predict the average number of power failures	~ the average number of power failures	~ !
+I desire to predict the median number of pregnancies	~ the median number of pregnancies	~ !
+I desire to predict the median number of car crashes	~ the median number of car crashes	~ !
+I desire to predict the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I desire to predict the median number of trees	~ the median number of trees	~ !
+I desire to predict the median number of power failures	~ the median number of power failures	~ !
+I desire to predict the price of cars	~ the price of cars	~ !
+I desire to predict the price of cats	~ the price of cats	~ !
+I desire to predict the price of dogs	~ the price of dogs	~ !
+I desire to predict the price of candy	~ the price of candy	~ !
+I desire to predict the price of steak	~ the price of steak	~ !
+I desire to predict the price of beef	~ the price of beef	~ !
+I desire to predict the price of pancakes	~ the price of pancakes	~ !
+I desire to predict the price of sugar	~ the price of sugar	~ !
+I desire to predict the price of bread	~ the price of bread	~ !
+I desire to predict the price of water	~ the price of water	~ !
+I desire to forecast pregnancies	~ pregnancies	~ !
+I desire to forecast car crashes	~ car crashes	~ !
+I desire to forecast criminal incidents	~ criminal incidents	~ !
+I desire to forecast trees	~ trees	~ !
+I desire to forecast power failures	~ power failures	~ !
+I desire to forecast the number of pregnancies	~ the number of pregnancies	~ !
+I desire to forecast the number of car crashes	~ the number of car crashes	~ !
+I desire to forecast the number of criminal incidents	~ the number of criminal incidents	~ !
+I desire to forecast the number of trees	~ the number of trees	~ !
+I desire to forecast the number of power failures	~ the number of power failures	~ !
+I desire to forecast the average number of pregnancies	~ the average number of pregnancies	~ !
+I desire to forecast the average number of car crashes	~ the average number of car crashes	~ !
+I desire to forecast the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I desire to forecast the average number of trees	~ the average number of trees	~ !
+I desire to forecast the average number of power failures	~ the average number of power failures	~ !
+I desire to forecast the median number of pregnancies	~ the median number of pregnancies	~ !
+I desire to forecast the median number of car crashes	~ the median number of car crashes	~ !
+I desire to forecast the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I desire to forecast the median number of trees	~ the median number of trees	~ !
+I desire to forecast the median number of power failures	~ the median number of power failures	~ !
+I desire to forecast the price of cars	~ the price of cars	~ !
+I desire to forecast the price of cats	~ the price of cats	~ !
+I desire to forecast the price of dogs	~ the price of dogs	~ !
+I desire to forecast the price of candy	~ the price of candy	~ !
+I desire to forecast the price of steak	~ the price of steak	~ !
+I desire to forecast the price of beef	~ the price of beef	~ !
+I desire to forecast the price of pancakes	~ the price of pancakes	~ !
+I desire to forecast the price of sugar	~ the price of sugar	~ !
+I desire to forecast the price of bread	~ the price of bread	~ !
+I desire to forecast the price of water	~ the price of water	~ !
+I desire to project pregnancies	~ pregnancies	~ !
+I desire to project car crashes	~ car crashes	~ !
+I desire to project criminal incidents	~ criminal incidents	~ !
+I desire to project trees	~ trees	~ !
+I desire to project power failures	~ power failures	~ !
+I desire to project the number of pregnancies	~ the number of pregnancies	~ !
+I desire to project the number of car crashes	~ the number of car crashes	~ !
+I desire to project the number of criminal incidents	~ the number of criminal incidents	~ !
+I desire to project the number of trees	~ the number of trees	~ !
+I desire to project the number of power failures	~ the number of power failures	~ !
+I desire to project the average number of pregnancies	~ the average number of pregnancies	~ !
+I desire to project the average number of car crashes	~ the average number of car crashes	~ !
+I desire to project the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I desire to project the average number of trees	~ the average number of trees	~ !
+I desire to project the average number of power failures	~ the average number of power failures	~ !
+I desire to project the median number of pregnancies	~ the median number of pregnancies	~ !
+I desire to project the median number of car crashes	~ the median number of car crashes	~ !
+I desire to project the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I desire to project the median number of trees	~ the median number of trees	~ !
+I desire to project the median number of power failures	~ the median number of power failures	~ !
+I desire to project the price of cars	~ the price of cars	~ !
+I desire to project the price of cats	~ the price of cats	~ !
+I desire to project the price of dogs	~ the price of dogs	~ !
+I desire to project the price of candy	~ the price of candy	~ !
+I desire to project the price of steak	~ the price of steak	~ !
+I desire to project the price of beef	~ the price of beef	~ !
+I desire to project the price of pancakes	~ the price of pancakes	~ !
+I desire to project the price of sugar	~ the price of sugar	~ !
+I desire to project the price of bread	~ the price of bread	~ !
+I desire to project the price of water	~ the price of water	~ !
+I desire to understand pregnancies	~ pregnancies	~ !
+I desire to understand car crashes	~ car crashes	~ !
+I desire to understand criminal incidents	~ criminal incidents	~ !
+I desire to understand trees	~ trees	~ !
+I desire to understand power failures	~ power failures	~ !
+I desire to understand the number of pregnancies	~ the number of pregnancies	~ !
+I desire to understand the number of car crashes	~ the number of car crashes	~ !
+I desire to understand the number of criminal incidents	~ the number of criminal incidents	~ !
+I desire to understand the number of trees	~ the number of trees	~ !
+I desire to understand the number of power failures	~ the number of power failures	~ !
+I desire to understand the average number of pregnancies	~ the average number of pregnancies	~ !
+I desire to understand the average number of car crashes	~ the average number of car crashes	~ !
+I desire to understand the average number of criminal incidents	~ the average number of criminal incidents	~ !
+I desire to understand the average number of trees	~ the average number of trees	~ !
+I desire to understand the average number of power failures	~ the average number of power failures	~ !
+I desire to understand the median number of pregnancies	~ the median number of pregnancies	~ !
+I desire to understand the median number of car crashes	~ the median number of car crashes	~ !
+I desire to understand the median number of criminal incidents	~ the median number of criminal incidents	~ !
+I desire to understand the median number of trees	~ the median number of trees	~ !
+I desire to understand the median number of power failures	~ the median number of power failures	~ !
+I desire to understand the price of cars	~ the price of cars	~ !
+I desire to understand the price of cats	~ the price of cats	~ !
+I desire to understand the price of dogs	~ the price of dogs	~ !
+I desire to understand the price of candy	~ the price of candy	~ !
+I desire to understand the price of steak	~ the price of steak	~ !
+I desire to understand the price of beef	~ the price of beef	~ !
+I desire to understand the price of pancakes	~ the price of pancakes	~ !
+I desire to understand the price of sugar	~ the price of sugar	~ !
+I desire to understand the price of bread	~ the price of bread	~ !
+I desire to understand the price of water	~ the price of water	~ !
