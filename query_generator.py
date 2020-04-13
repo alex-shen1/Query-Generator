@@ -1,9 +1,8 @@
 requests = [
-    "I want to", "I need to", "Need to", "I'd like to", "Want to", "I demand to",
-    "I desire to"
+    "I want to", "I need to", "Need to", "I'd like to", "Want to",
 ]
 actions = [
-    "model", "estimate", "predict", "forecast", "project", "understand"
+    "model", "estimate", "predict", "forecast", "project",
 ]
 fields = {
     "quantitative": [
@@ -26,7 +25,8 @@ subjects = {
     ],
     "price":[
         "cars", "cats", "dogs", "candy", "steak", "beef", "pancakes", "sugar", "bread",
-        "water"
+        "water", "houses", "couches", "sofas", "beds", "furniture", "TVs", "cheese", "game consoles",
+        "PC parts"
     ]
 }
 n = 0
