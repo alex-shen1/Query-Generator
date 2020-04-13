@@ -1,0 +1,240 @@
+I want to model the number of pregnancies	the number of pregnancies	!
+I want to model the number of car crashes	the number of car crashes	!
+I want to model the number of criminal incidents	the number of criminal incidents	!
+I want to model the number of trees	the number of trees	!
+I want to model the average number of pregnancies	the average number of pregnancies	!
+I want to model the average number of car crashes	the average number of car crashes	!
+I want to model the average number of criminal incidents	the average number of criminal incidents	!
+I want to model the average number of trees	the average number of trees	!
+I want to model the median number of pregnancies	the median number of pregnancies	!
+I want to model the median number of car crashes	the median number of car crashes	!
+I want to model the median number of criminal incidents	the median number of criminal incidents	!
+I want to model the median number of trees	the median number of trees	!
+I want to model  pregnancies	 pregnancies	!
+I want to model  car crashes	 car crashes	!
+I want to model  criminal incidents	 criminal incidents	!
+I want to model  trees	 trees	!
+I want to estimate the number of pregnancies	the number of pregnancies	!
+I want to estimate the number of car crashes	the number of car crashes	!
+I want to estimate the number of criminal incidents	the number of criminal incidents	!
+I want to estimate the number of trees	the number of trees	!
+I want to estimate the average number of pregnancies	the average number of pregnancies	!
+I want to estimate the average number of car crashes	the average number of car crashes	!
+I want to estimate the average number of criminal incidents	the average number of criminal incidents	!
+I want to estimate the average number of trees	the average number of trees	!
+I want to estimate the median number of pregnancies	the median number of pregnancies	!
+I want to estimate the median number of car crashes	the median number of car crashes	!
+I want to estimate the median number of criminal incidents	the median number of criminal incidents	!
+I want to estimate the median number of trees	the median number of trees	!
+I want to estimate  pregnancies	 pregnancies	!
+I want to estimate  car crashes	 car crashes	!
+I want to estimate  criminal incidents	 criminal incidents	!
+I want to estimate  trees	 trees	!
+I want to predict the number of pregnancies	the number of pregnancies	!
+I want to predict the number of car crashes	the number of car crashes	!
+I want to predict the number of criminal incidents	the number of criminal incidents	!
+I want to predict the number of trees	the number of trees	!
+I want to predict the average number of pregnancies	the average number of pregnancies	!
+I want to predict the average number of car crashes	the average number of car crashes	!
+I want to predict the average number of criminal incidents	the average number of criminal incidents	!
+I want to predict the average number of trees	the average number of trees	!
+I want to predict the median number of pregnancies	the median number of pregnancies	!
+I want to predict the median number of car crashes	the median number of car crashes	!
+I want to predict the median number of criminal incidents	the median number of criminal incidents	!
+I want to predict the median number of trees	the median number of trees	!
+I want to predict  pregnancies	 pregnancies	!
+I want to predict  car crashes	 car crashes	!
+I want to predict  criminal incidents	 criminal incidents	!
+I want to predict  trees	 trees	!
+I need to model the number of pregnancies	the number of pregnancies	!
+I need to model the number of car crashes	the number of car crashes	!
+I need to model the number of criminal incidents	the number of criminal incidents	!
+I need to model the number of trees	the number of trees	!
+I need to model the average number of pregnancies	the average number of pregnancies	!
+I need to model the average number of car crashes	the average number of car crashes	!
+I need to model the average number of criminal incidents	the average number of criminal incidents	!
+I need to model the average number of trees	the average number of trees	!
+I need to model the median number of pregnancies	the median number of pregnancies	!
+I need to model the median number of car crashes	the median number of car crashes	!
+I need to model the median number of criminal incidents	the median number of criminal incidents	!
+I need to model the median number of trees	the median number of trees	!
+I need to model  pregnancies	 pregnancies	!
+I need to model  car crashes	 car crashes	!
+I need to model  criminal incidents	 criminal incidents	!
+I need to model  trees	 trees	!
+I need to estimate the number of pregnancies	the number of pregnancies	!
+I need to estimate the number of car crashes	the number of car crashes	!
+I need to estimate the number of criminal incidents	the number of criminal incidents	!
+I need to estimate the number of trees	the number of trees	!
+I need to estimate the average number of pregnancies	the average number of pregnancies	!
+I need to estimate the average number of car crashes	the average number of car crashes	!
+I need to estimate the average number of criminal incidents	the average number of criminal incidents	!
+I need to estimate the average number of trees	the average number of trees	!
+I need to estimate the median number of pregnancies	the median number of pregnancies	!
+I need to estimate the median number of car crashes	the median number of car crashes	!
+I need to estimate the median number of criminal incidents	the median number of criminal incidents	!
+I need to estimate the median number of trees	the median number of trees	!
+I need to estimate  pregnancies	 pregnancies	!
+I need to estimate  car crashes	 car crashes	!
+I need to estimate  criminal incidents	 criminal incidents	!
+I need to estimate  trees	 trees	!
+I need to predict the number of pregnancies	the number of pregnancies	!
+I need to predict the number of car crashes	the number of car crashes	!
+I need to predict the number of criminal incidents	the number of criminal incidents	!
+I need to predict the number of trees	the number of trees	!
+I need to predict the average number of pregnancies	the average number of pregnancies	!
+I need to predict the average number of car crashes	the average number of car crashes	!
+I need to predict the average number of criminal incidents	the average number of criminal incidents	!
+I need to predict the average number of trees	the average number of trees	!
+I need to predict the median number of pregnancies	the median number of pregnancies	!
+I need to predict the median number of car crashes	the median number of car crashes	!
+I need to predict the median number of criminal incidents	the median number of criminal incidents	!
+I need to predict the median number of trees	the median number of trees	!
+I need to predict  pregnancies	 pregnancies	!
+I need to predict  car crashes	 car crashes	!
+I need to predict  criminal incidents	 criminal incidents	!
+I need to predict  trees	 trees	!
+Need to model the number of pregnancies	the number of pregnancies	!
+Need to model the number of car crashes	the number of car crashes	!
+Need to model the number of criminal incidents	the number of criminal incidents	!
+Need to model the number of trees	the number of trees	!
+Need to model the average number of pregnancies	the average number of pregnancies	!
+Need to model the average number of car crashes	the average number of car crashes	!
+Need to model the average number of criminal incidents	the average number of criminal incidents	!
+Need to model the average number of trees	the average number of trees	!
+Need to model the median number of pregnancies	the median number of pregnancies	!
+Need to model the median number of car crashes	the median number of car crashes	!
+Need to model the median number of criminal incidents	the median number of criminal incidents	!
+Need to model the median number of trees	the median number of trees	!
+Need to model  pregnancies	 pregnancies	!
+Need to model  car crashes	 car crashes	!
+Need to model  criminal incidents	 criminal incidents	!
+Need to model  trees	 trees	!
+Need to estimate the number of pregnancies	the number of pregnancies	!
+Need to estimate the number of car crashes	the number of car crashes	!
+Need to estimate the number of criminal incidents	the number of criminal incidents	!
+Need to estimate the number of trees	the number of trees	!
+Need to estimate the average number of pregnancies	the average number of pregnancies	!
+Need to estimate the average number of car crashes	the average number of car crashes	!
+Need to estimate the average number of criminal incidents	the average number of criminal incidents	!
+Need to estimate the average number of trees	the average number of trees	!
+Need to estimate the median number of pregnancies	the median number of pregnancies	!
+Need to estimate the median number of car crashes	the median number of car crashes	!
+Need to estimate the median number of criminal incidents	the median number of criminal incidents	!
+Need to estimate the median number of trees	the median number of trees	!
+Need to estimate  pregnancies	 pregnancies	!
+Need to estimate  car crashes	 car crashes	!
+Need to estimate  criminal incidents	 criminal incidents	!
+Need to estimate  trees	 trees	!
+Need to predict the number of pregnancies	the number of pregnancies	!
+Need to predict the number of car crashes	the number of car crashes	!
+Need to predict the number of criminal incidents	the number of criminal incidents	!
+Need to predict the number of trees	the number of trees	!
+Need to predict the average number of pregnancies	the average number of pregnancies	!
+Need to predict the average number of car crashes	the average number of car crashes	!
+Need to predict the average number of criminal incidents	the average number of criminal incidents	!
+Need to predict the average number of trees	the average number of trees	!
+Need to predict the median number of pregnancies	the median number of pregnancies	!
+Need to predict the median number of car crashes	the median number of car crashes	!
+Need to predict the median number of criminal incidents	the median number of criminal incidents	!
+Need to predict the median number of trees	the median number of trees	!
+Need to predict  pregnancies	 pregnancies	!
+Need to predict  car crashes	 car crashes	!
+Need to predict  criminal incidents	 criminal incidents	!
+Need to predict  trees	 trees	!
+I'd like to model the number of pregnancies	the number of pregnancies	!
+I'd like to model the number of car crashes	the number of car crashes	!
+I'd like to model the number of criminal incidents	the number of criminal incidents	!
+I'd like to model the number of trees	the number of trees	!
+I'd like to model the average number of pregnancies	the average number of pregnancies	!
+I'd like to model the average number of car crashes	the average number of car crashes	!
+I'd like to model the average number of criminal incidents	the average number of criminal incidents	!
+I'd like to model the average number of trees	the average number of trees	!
+I'd like to model the median number of pregnancies	the median number of pregnancies	!
+I'd like to model the median number of car crashes	the median number of car crashes	!
+I'd like to model the median number of criminal incidents	the median number of criminal incidents	!
+I'd like to model the median number of trees	the median number of trees	!
+I'd like to model  pregnancies	 pregnancies	!
+I'd like to model  car crashes	 car crashes	!
+I'd like to model  criminal incidents	 criminal incidents	!
+I'd like to model  trees	 trees	!
+I'd like to estimate the number of pregnancies	the number of pregnancies	!
+I'd like to estimate the number of car crashes	the number of car crashes	!
+I'd like to estimate the number of criminal incidents	the number of criminal incidents	!
+I'd like to estimate the number of trees	the number of trees	!
+I'd like to estimate the average number of pregnancies	the average number of pregnancies	!
+I'd like to estimate the average number of car crashes	the average number of car crashes	!
+I'd like to estimate the average number of criminal incidents	the average number of criminal incidents	!
+I'd like to estimate the average number of trees	the average number of trees	!
+I'd like to estimate the median number of pregnancies	the median number of pregnancies	!
+I'd like to estimate the median number of car crashes	the median number of car crashes	!
+I'd like to estimate the median number of criminal incidents	the median number of criminal incidents	!
+I'd like to estimate the median number of trees	the median number of trees	!
+I'd like to estimate  pregnancies	 pregnancies	!
+I'd like to estimate  car crashes	 car crashes	!
+I'd like to estimate  criminal incidents	 criminal incidents	!
+I'd like to estimate  trees	 trees	!
+I'd like to predict the number of pregnancies	the number of pregnancies	!
+I'd like to predict the number of car crashes	the number of car crashes	!
+I'd like to predict the number of criminal incidents	the number of criminal incidents	!
+I'd like to predict the number of trees	the number of trees	!
+I'd like to predict the average number of pregnancies	the average number of pregnancies	!
+I'd like to predict the average number of car crashes	the average number of car crashes	!
+I'd like to predict the average number of criminal incidents	the average number of criminal incidents	!
+I'd like to predict the average number of trees	the average number of trees	!
+I'd like to predict the median number of pregnancies	the median number of pregnancies	!
+I'd like to predict the median number of car crashes	the median number of car crashes	!
+I'd like to predict the median number of criminal incidents	the median number of criminal incidents	!
+I'd like to predict the median number of trees	the median number of trees	!
+I'd like to predict  pregnancies	 pregnancies	!
+I'd like to predict  car crashes	 car crashes	!
+I'd like to predict  criminal incidents	 criminal incidents	!
+I'd like to predict  trees	 trees	!
+Want to model the number of pregnancies	the number of pregnancies	!
+Want to model the number of car crashes	the number of car crashes	!
+Want to model the number of criminal incidents	the number of criminal incidents	!
+Want to model the number of trees	the number of trees	!
+Want to model the average number of pregnancies	the average number of pregnancies	!
+Want to model the average number of car crashes	the average number of car crashes	!
+Want to model the average number of criminal incidents	the average number of criminal incidents	!
+Want to model the average number of trees	the average number of trees	!
+Want to model the median number of pregnancies	the median number of pregnancies	!
+Want to model the median number of car crashes	the median number of car crashes	!
+Want to model the median number of criminal incidents	the median number of criminal incidents	!
+Want to model the median number of trees	the median number of trees	!
+Want to model  pregnancies	 pregnancies	!
+Want to model  car crashes	 car crashes	!
+Want to model  criminal incidents	 criminal incidents	!
+Want to model  trees	 trees	!
+Want to estimate the number of pregnancies	the number of pregnancies	!
+Want to estimate the number of car crashes	the number of car crashes	!
+Want to estimate the number of criminal incidents	the number of criminal incidents	!
+Want to estimate the number of trees	the number of trees	!
+Want to estimate the average number of pregnancies	the average number of pregnancies	!
+Want to estimate the average number of car crashes	the average number of car crashes	!
+Want to estimate the average number of criminal incidents	the average number of criminal incidents	!
+Want to estimate the average number of trees	the average number of trees	!
+Want to estimate the median number of pregnancies	the median number of pregnancies	!
+Want to estimate the median number of car crashes	the median number of car crashes	!
+Want to estimate the median number of criminal incidents	the median number of criminal incidents	!
+Want to estimate the median number of trees	the median number of trees	!
+Want to estimate  pregnancies	 pregnancies	!
+Want to estimate  car crashes	 car crashes	!
+Want to estimate  criminal incidents	 criminal incidents	!
+Want to estimate  trees	 trees	!
+Want to predict the number of pregnancies	the number of pregnancies	!
+Want to predict the number of car crashes	the number of car crashes	!
+Want to predict the number of criminal incidents	the number of criminal incidents	!
+Want to predict the number of trees	the number of trees	!
+Want to predict the average number of pregnancies	the average number of pregnancies	!
+Want to predict the average number of car crashes	the average number of car crashes	!
+Want to predict the average number of criminal incidents	the average number of criminal incidents	!
+Want to predict the average number of trees	the average number of trees	!
+Want to predict the median number of pregnancies	the median number of pregnancies	!
+Want to predict the median number of car crashes	the median number of car crashes	!
+Want to predict the median number of criminal incidents	the median number of criminal incidents	!
+Want to predict the median number of trees	the median number of trees	!
+Want to predict  pregnancies	 pregnancies	!
+Want to predict  car crashes	 car crashes	!
+Want to predict  criminal incidents	 criminal incidents	!
+Want to predict  trees	 trees	!
