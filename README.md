@@ -1,5 +1,3 @@
 # Query-Generator
 
-Small utility for [LibraAI](https://github.com/Palashio/LibraAI), which is primarily developed by  Palash Shah ([Palashio](https://github.com/Palashio/) on GitHub).
-
-Generates a large number of simple, natural language queries that request data analysis on a particular subject.
+Generates a large number of simple, natural language queries that request data analysis on a particular subject. Can be used as a small utility to generate data for for a machine learning program trying to understand user inputs. 
