@@ -5,24 +5,31 @@ actions = [
     "model", "estimate", "predict", "forecast", "project",
 ]
 stats = [
-    "", "average ", "median "
+    "", "average ", "median ", "mean "
 ]
 fields = [
-    "number of", "price of", "rate of"
+    "number", "price", "rate"
 ]
 subjects = {
-    "number of": [
+    "number": [
         "pregnancies", "car crashes", "criminal incidents", "trees", "power failures", "wild dogs",
-        "students", "professors", "lawyers", "doctors", "firefighters", "police officers"
+        "students", "professors", "lawyers", "doctors", "firefighters", "police officers", "voters",
+        "teachers", "businesses", "restaurants", "people"
 
     ],
-    "price of": [
+    "price": [
         "cars", "cats", "dogs", "candy", "steak", "beef", "pancakes", "sugar", "bread",
         "water", "houses", "couches", "sofas", "beds", "furniture", "TVs", "cheese", "game consoles",
-        "PC parts", "pencils", "pens", "erasers",
+        "PC parts", "pencils", "pens", "erasers", "food", "computers", "laptops", "gas", "electricity"
     ],
-    "rate of": [
-        "poverty", "suicide", "college acceptance",
+    "rate": [
+        "poverty", "suicide", "college acceptance", "voter participation", "murder", "crime",
+        "home ownership", "drug use", "business failure", "GDP growth", "productivity growth",
+        "population growth", "infant mortality"
+    ],
+
+    "NA": [
+        "weather", "temperature",
     ]
 }
 n = 0
@@ -31,6 +38,7 @@ if final:
     separator = "\t"
 else:
     separator = "\t~ "
+
 with open("text_data.txt", "w+") as file:
     for request in requests: # "i want to"
         for action in actions: # "predict"
@@ -39,10 +47,7 @@ with open("text_data.txt", "w+") as file:
                     for subjectType in subjects.keys(): # "items"
                         if field == subjectType:
                             for subject in subjects[subjectType]:
-                                target = stat + field + " " + subject
-
-                                # if target[0:3] == "the":
-                                #     target = target[3:]
+                                target = stat + field + " of " + subject
 
                                 file.write(request + " " + action + " the " + target + separator +
                                            target + separator + "!\n")
