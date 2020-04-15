@@ -1,5 +1,5 @@
 requests = [
-    "I want to", "I need to", "Need to", "I'd like to", "Want to",
+    "I want to", "I need to", "Need to", "I'd like to", "Want to", "Please"
 ]
 actions = [
     "model", "estimate", "predict", "forecast", "project",
